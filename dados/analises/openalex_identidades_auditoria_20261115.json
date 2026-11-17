@@ -1,0 +1,15 @@
+{
+  "pares_avaliados": 689,
+  "classificacoes": {
+    "Mesma obra: DOI e metadados concordantes": 116,
+    "Título somente; identidade não estabelecida": 521,
+    "Identificador concordante; metadados requerem revisão": 52
+  },
+  "pares_sustentados_por_fonte": {
+    "SciELO": 45,
+    "Portal CAPES": 71
+  },
+  "ids_openalex_sustentados": 116,
+  "codigos_base_sustentados": 116,
+  "inclusoes_goias_com_correspondencia_sustentada": 12
+}

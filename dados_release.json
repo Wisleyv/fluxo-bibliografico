@@ -1,0 +1,21 @@
+{
+  "repositorio_previsto": "Wisleyv/fluxo-bibliografico",
+  "estado": "Anexos previstos na release v0.1.0; conferir tamanho e SHA-256 ao baixar",
+  "arquivos": [
+    {
+      "caminho": "dados/brutos/catalogo-capes/catalogo-capes__catalogo-2024__20261108T150417015445-0300__CSV.csv",
+      "asset": "catalogo-capes__catalogo-2024__20261108T150417015445-0300__CSV.csv",
+      "bytes": 506649988,
+      "sha256": "d14cd79a315c7cd844546a2de6ef40ac62e9b4f0d17e89c78f9f0f9b038b811a",
+      "url": "https://github.com/Wisleyv/fluxo-bibliografico/releases/download/v0.1.0/catalogo-capes__catalogo-2024__20261108T150417015445-0300__CSV.csv"
+    },
+    {
+      "caminho": "dados/normalizados/registros_normalizados__20261108T205625-0300__828bdff7.csv",
+      "asset": "registros_normalizados__20261108T205625-0300__828bdff7.csv",
+      "bytes": 648714484,
+      "sha256": "5278c95457b3363312da3840b0d070c9e77b732ec24f3106e1dccdcea05c3cf4",
+      "url": "https://github.com/Wisleyv/fluxo-bibliografico/releases/download/v0.1.0/registros_normalizados__20261108T205625-0300__828bdff7.csv"
+    }
+  ],
+  "release": "v0.1.0"
+}

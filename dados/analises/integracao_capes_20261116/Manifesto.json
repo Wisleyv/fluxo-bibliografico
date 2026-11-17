@@ -1,0 +1,14 @@
+{
+  "estado": "integração de proveniência executada; fechamento bibliográfico e nova entrega pendentes",
+  "consulta": "https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/acervo/buscador.html?q=%E2%80%9CPIBID%E2%80%9D+OR+%E2%80%9CPrograma+Institucional+de+Bolsa+de+Inicia%C3%A7%C3%A3o+%C3%A0+Doc%C3%AAncia%E2%80%9D&source=all&type%5B%5D=type%3D%3DArtigo&type%5B%5D=type%3D%3DEditorial&national_production%5B%5D=national_production%3D%3D1&num=30&page=23&publishyear=2007%3A2026",
+  "coleta_capes": "2026-11-16",
+  "corte_publicacao": "2026-11-08",
+  "registros_capes": 675,
+  "vinculados": 626,
+  "pendentes": 49,
+  "proveniencias_vinculadas": 14374,
+  "corpus_nacional_preservado": 7780,
+  "snapshot_openalex_ids_coincidentes": 647,
+  "sha256_ris": "c038becb3017fb6c0ff4293aed6e4469bc1824dcd7f14b7034b0775537e98124",
+  "limitacao": "Sobreposição nominal não equivale a identidades confirmadas nem completude. Campos de autoria concatenada não foram desmembrados."
+}

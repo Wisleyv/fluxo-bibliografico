@@ -1,0 +1,25 @@
+{
+  "estado": "OK",
+  "primeira_execucao_sem_atualizar": true,
+  "rede": "não utilizada",
+  "tabelas_csv_identicas": 38,
+  "inventario": "Não comparado byte a byte: registra caminhos diferentes dos produtos temporários.",
+  "alcance": "Reprodução dos indicadores e das evidências reaproveitadas por manifesto em saída nova; não é teste da futura entrega Excel.",
+  "logs": [
+    {
+      "modulo": "produzir_indicadores_marco4",
+      "codigo_saida": 0,
+      "saida": "{\n  \"paginas_openalex\": 125,\n  \"obras_openalex_lidas\": 7796,\n  \"correspondencia\": {\n    \"Sim\": 78,\n    \"Não\": 19\n  },\n  \"alertas_de_autoria\": 24,\n  \"multiplos_openalex_por_componente\": 4,\n  \"autores_com_orcid_univoco\": 5977,\n  \"autores_com_conflito_orcid\": 0,\n  \"eixos\": 291,\n  \"redes\": \"não produzidas; identidades de autoria não auditadas globalmente e afiliações incompletas; grupos não coletados\",\n  \"uf_regiao\": \"não estimáveis integralmente; arquivos de authorships não contêm UF/região; somente sinal goiano validado e países\"\n}\n{\n  \"nacional\": {\n    \"N\": 7779,\n    \"afiliacao\": {\n      \"conhecida\": 3024,\n      \"desconhecida\": 3270,\n      \"parcial\": 1485\n    },\n    \"goias\": 196,\n    \"autoria\": 7752,\n    \"instituicao\": 4228,\n    \"geografia\": 4228,\n    \"tematicas\": 7777,\n    \"coautoria\": {\n      \"Sim\": 6198,\n      \"Não\": 1554,\n      \"não informada\": 27\n    }\n  },\n  \"goiano\": {\n    \"N\": 97,\n    \"afiliacao\": {\n      \"parcial\": 34,\n      \"desconhecida\": 12,\n      \"conhecida\": 51\n    },\n    \"goias\": 80,\n    \"autoria\": 97,\n    \"instituicao\": 83,\n    \"geografia\": 83,\n    \"tematicas\": 93,\n    \"coautoria\": {\n      \"Sim\": 82,\n      \"Não\": 15\n    }\n  }\n}\n"
+    },
+    {
+      "modulo": "documentar_conferencias_marco4",
+      "codigo_saida": 0,
+      "saida": "{\n  \"conferencias_adicionais\": 42,\n  \"obras_qualitativas_conferidas\": 10,\n  \"mencoes\": [\n    {\n      \"aspecto\": \"comunidades\",\n      \"obras_com_mencao_localizada\": 14,\n      \"denominador\": 97,\n      \"obra_ids\": \"M2-25a08c2b555d1324;M2-2895872afd6d984f;M2-3398c3fe22bb5ba2;M2-5293936e79b4e25a;M2-5afeeb153a97359d;M2-776d321946f772d7;M2-7ae3036bd7ecd118;M2-a9960de4732671f4;M2-be0424193cdd6bde;M2-c2c0e0f1a73df8ec;M2-c88d019ee583b5e3;M2-ce86429a9010d3d9;M2-cf0ffcd13ea6d843;M2-e54b6ae5c7069c42\",\n      \"origem\": \"Campos de menções da extração Marco 3; localização lexical conservadora, sem sinônimos novos\",\n      \"limite\": \"Não equivale a efeito demonstrado, intervenção comunitária ou ausência nos demais; livros híbridos não significam espaços híbridos.\"\n    },\n    {\n      \"aspecto\": \"saberes_escolares_comunitarios\",\n      \"obras_com_mencao_localizada\": 1,\n      \"denominador\": 97,\n      \"obra_ids\": \"M2-5afeeb153a97359d\",\n      \"origem\": \"Campos de menções da extração Marco 3; localização lexical conservadora, sem sinônimos novos\",\n      \"limite\": \"Não equivale a efeito demonstrado, intervenção comunitária ou ausência nos demais; livros híbridos não significam espaços híbridos.\"\n    },\n    {\n      \"aspecto\": \"espacos_hibridos\",\n      \"obras_com_mencao_localizada\": 2,\n      \"denominador\": 97,\n      \"obra_ids\": \"M2-5afeeb153a97359d;M2-a9960de4732671f4\",\n      \"origem\": \"Campos de menções da extração Marco 3; localização lexical conservadora, sem sinônimos novos\",\n      \"limite\": \"Não equivale a efeito demonstrado, intervenção comunitária ou ausência nos demais; livros híbridos não significam espaços híbridos.\"\n    }\n  ]\n}\n"
+    },
+    {
+      "modulo": "verificar_marco4",
+      "codigo_saida": 0,
+      "saida": "{\"verificacoes\": 25, \"aprovadas\": 25, \"numerador_goias\": 196, \"denominador_nacional\": 7779}\n"
+    }
+  ]
+}

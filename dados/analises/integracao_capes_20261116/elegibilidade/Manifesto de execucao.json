@@ -1,0 +1,12 @@
+{
+  "etapa": "elegibilidade CAPES 20261116",
+  "coleta_capes": "2026-11-16",
+  "coleta_openalex": "2026-11-15",
+  "corte_publicacao": "2026-11-08",
+  "diretorio_nacional": "dados\\analises\\integracao_capes_20261116\\elegibilidade",
+  "diretorio_regional": "dados\\analises\\integracao_capes_20261116\\elegibilidade",
+  "diretorio_indicadores_proposto": "dados/analises/integracao_capes_20261116/indicadores",
+  "diretorio_entrega_proposto": "dados/entregas/marco5_capes_20261116",
+  "estado": "Insumos prontos para recalcular indicadores; entrega anterior preservada",
+  "protocolo_adendo": "Protocolo de busca bibliométrica - v1.4 integração CAPES.md"
+}

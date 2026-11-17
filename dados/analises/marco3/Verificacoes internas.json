@@ -1,0 +1,48 @@
+{
+  "verificacoes_aprovadas": 15,
+  "caminhos_conferidos": 139,
+  "trechos_novos_reproduzidos": 100,
+  "amostra_exclusoes": 16,
+  "semente_amostra": 20261117,
+  "criterios_temporais_incluidas": {
+    "publicação completa": 93,
+    "defesa alternativa; 2026 só ano = evidência limitada": 4
+  },
+  "vinculos_incluidas": {
+    "afiliação e contexto/objeto": 41,
+    "contexto/objeto": 17,
+    "afiliação": 39
+  },
+  "estado_nacional_incluidas": {
+    "incluída": 78,
+    "pendente": 18,
+    "elegível com identidade pendente": 1
+  },
+  "prioridades_residuais": {
+    "3 — vínculo regional e/ou outros critérios não comprovados": 858,
+    "2 — vínculo sustentado; outro critério incompleto": 11,
+    "1 — identidade com elegibilidade sustentada": 2
+  },
+  "registros_por_decisao": {
+    "Excluir": 906,
+    "Incluir": 123,
+    "Pendente": 1024
+  },
+  "eixos_por_estado": {
+    "Aprendizagem da docência e identidade profissional": {
+      "Presente": 66,
+      "Não informado": 24,
+      "Não verificável": 7
+    },
+    "Relações IES, escolas e comunidades; saberes e espaços híbridos": {
+      "Não informado": 34,
+      "Presente": 51,
+      "Não verificável": 12
+    },
+    "Trajetórias profissionais": {
+      "Não informado": 87,
+      "Presente": 6,
+      "Não verificável": 4
+    }
+  }
+}

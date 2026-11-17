@@ -1,0 +1,7 @@
+﻿fonte_a,fonte_b,grupos_confirmados_compartilhados,grupos_com_openalex,grupos_sem_confirmacao_openalex
+BDTD,Catálogo CAPES,0,0,0
+BDTD,Portal CAPES,0,0,0
+BDTD,SciELO,0,0,0
+Catálogo CAPES,Portal CAPES,0,0,0
+Catálogo CAPES,SciELO,0,0,0
+Portal CAPES,SciELO,1,1,0

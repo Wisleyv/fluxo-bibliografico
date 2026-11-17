@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Para citar o fluxo computacional, utilize estes metadados. Cite os dados e as fontes utilizados separadamente."
+type: software
+title: "Fluxo bibliográfico: coleta, conciliação e análise de registros bibliográficos"
+authors:
+  - family-names: Vilela
+    given-names: Wisley
+    orcid: "https://orcid.org/0000-0002-0347-1778"
+url: "https://wisley.net"
+abstract: "Fluxo computacional desenvolvido por Wisley Vilela, com aplicação documentada à pesquisa sobre o PIBID orientada pelas diretrizes de Vanéria Paula Sousa Martins."
+keywords:
+  - bibliometria
+  - registros bibliográficos
+  - reprodutibilidade
+license: MIT
+version: "0.1.0"
+repository-code: "https://github.com/Wisleyv/fluxo-bibliografico"

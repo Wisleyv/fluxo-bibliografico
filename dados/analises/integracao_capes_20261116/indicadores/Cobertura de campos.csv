@@ -1,0 +1,19 @@
+﻿escopo,campo,estado,obras,denominador,percentual
+nacional,afiliação,conhecida,3024,7779,38.8738912456614
+nacional,afiliação,desconhecida,3270,7779,42.03625144620131
+nacional,afiliação,parcial,1485,7779,19.089857308137294
+nacional,tópico principal OpenAlex,Sim,7777,7779,99.97428975446715
+nacional,tópico principal OpenAlex,Não,2,7779,0.025710245532844837
+nacional,autoria informada,disponível,7752,7779,99.65291168530659
+nacional,todos os autores com identificador,disponível,7207,7779,92.64686977760637
+nacional,instituição mapeada,disponível,4228,7779,54.35145905643399
+nacional,país de afiliação mapeado,disponível,4228,7779,54.35145905643399
+goiano,afiliação,parcial,34,97,35.05154639175258
+goiano,afiliação,desconhecida,12,97,12.371134020618557
+goiano,afiliação,conhecida,51,97,52.577319587628864
+goiano,tópico principal OpenAlex,Sim,93,97,95.87628865979381
+goiano,tópico principal OpenAlex,Não,4,97,4.123711340206185
+goiano,autoria informada,disponível,97,97,100.0
+goiano,todos os autores com identificador,disponível,81,97,83.50515463917526
+goiano,instituição mapeada,disponível,83,97,85.56701030927834
+goiano,país de afiliação mapeado,disponível,83,97,85.56701030927834

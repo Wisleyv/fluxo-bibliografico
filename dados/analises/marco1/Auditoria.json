@@ -1,0 +1,95 @@
+{
+  "input_sha256": {
+    "dados\\analises\\triagem_criterio_defesa_20261115.xlsx": "8e8b77d2dd80f600f3fa4c09dfbbbe58df706cad61f8e58acc69c900963d271a",
+    "dados\\analises\\openalex_busca_restrita_20261115.csv": "74499051f48c0ea186354cd8891b54ce6862c125e166ff6091fecd851535cadd",
+    "dados\\analises\\openalex_identidades_conferidas_20261115.csv": "2ebfb1f1c1e5e7ac978cce407f8b6c14d9cbd7030c05cfeba86f6353f241ed07",
+    "dados\\analises\\openalex_correspondencias_candidatas_20261115.csv": "7bf76f92a744ea9847b83bd514d23fb236be932d439a2d4959b83de43a85e700"
+  },
+  "linhas_controle": 1317,
+  "pares_historicos_reaproveitados": 40,
+  "pares_openalex_anteriores": 116,
+  "revisao_52": {
+    "mesma obra confirmada": 51,
+    "candidato em revisão": 1
+  },
+  "pares_apos_revisao": {
+    "mesma obra confirmada": 167,
+    "candidato em revisão": 522
+  },
+  "controle_por_categoria": {
+    "total_origem": 1317,
+    "mesma obra confirmada": 167,
+    "candidato em revisão": 498,
+    "não recuperado no OpenAlex": 652,
+    "não verificável": 0,
+    "numerador_confirmado": 167,
+    "denominador_verificavel": 819,
+    "cobertura_verificavel_pct": 20.3907,
+    "confirmado_sobre_total_pct": 12.6803,
+    "revisao_excluida_denominador": 498,
+    "nao_verificavel_excluido_denominador": 0
+  },
+  "unidades_provisorias": 1277,
+  "exclusivos_observados_grupos_provisorios": 626,
+  "exclusivos_observados_linhas": 652,
+  "fontes": {
+    "BDTD": {
+      "total_origem": 1060,
+      "mesma obra confirmada": 0,
+      "candidato em revisão": 474,
+      "não recuperado no OpenAlex": 586,
+      "não verificável": 0,
+      "numerador_confirmado": 0,
+      "denominador_verificavel": 586,
+      "cobertura_verificavel_pct": 0.0,
+      "confirmado_sobre_total_pct": 0.0,
+      "revisao_excluida_denominador": 474,
+      "nao_verificavel_excluido_denominador": 0
+    },
+    "Catálogo CAPES": {
+      "total_origem": 78,
+      "mesma obra confirmada": 0,
+      "candidato em revisão": 16,
+      "não recuperado no OpenAlex": 62,
+      "não verificável": 0,
+      "numerador_confirmado": 0,
+      "denominador_verificavel": 62,
+      "cobertura_verificavel_pct": 0.0,
+      "confirmado_sobre_total_pct": 0.0,
+      "revisao_excluida_denominador": 16,
+      "nao_verificavel_excluido_denominador": 0
+    },
+    "Portal CAPES": {
+      "total_origem": 103,
+      "mesma obra confirmada": 101,
+      "candidato em revisão": 2,
+      "não recuperado no OpenAlex": 0,
+      "não verificável": 0,
+      "numerador_confirmado": 101,
+      "denominador_verificavel": 101,
+      "cobertura_verificavel_pct": 100.0,
+      "confirmado_sobre_total_pct": 98.0583,
+      "revisao_excluida_denominador": 2,
+      "nao_verificavel_excluido_denominador": 0
+    },
+    "SciELO": {
+      "total_origem": 76,
+      "mesma obra confirmada": 66,
+      "candidato em revisão": 6,
+      "não recuperado no OpenAlex": 4,
+      "não verificável": 0,
+      "numerador_confirmado": 66,
+      "denominador_verificavel": 70,
+      "cobertura_verificavel_pct": 94.2857,
+      "confirmado_sobre_total_pct": 86.8421,
+      "revisao_excluida_denominador": 6,
+      "nao_verificavel_excluido_denominador": 0
+    }
+  },
+  "checks": {
+    "1317_linhas_reconciliadas": true,
+    "estratos_reconciliados": true,
+    "entradas_inalteradas": true,
+    "40_pares_historicos_conferidos": true
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "fonte": "Metadados do repositório UEL; obras já presentes na base",
+  "registros": [
+    {
+      "codigo": "aa7898fd",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/15666",
+      "consultado_em": "2026-11-15T13:19:55-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/b5b92202-68af-46d1-9cd1-79934dfe492f",
+      "metadados": {
+        "dc.title": [
+          "Os modos de ser PIBID"
+        ],
+        "dc.contributor.author": [
+          "Rivelini-Silva, Angélica Cristina"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/15666"
+        ],
+        "dc.date.defesa": [
+          "16.12.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:53:42Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:53:42Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "e7a9290f",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/9764",
+      "consultado_em": "2026-11-15T13:19:57-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/1503d848-b847-4471-a283-2e3c5b8680e6",
+      "metadados": {
+        "dc.title": [
+          "A aprendizagem para a pesquisa em um grupo PIBID/Química"
+        ],
+        "dc.contributor.author": [
+          "Ribas, Jeferson Ferreti"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/9764"
+        ],
+        "dc.date.defesa": [
+          "20.02.2018"
+        ],
+        "dc.date.created": [
+          "2018.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T12:10:41Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T12:10:41Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "2cd274a7",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/14218",
+      "consultado_em": "2026-11-15T13:19:57-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/1f1ca2e7-8758-4d2f-8dc9-e5a0fcee700d",
+      "metadados": {
+        "dc.title": [
+          "O PIBID e as relações de saber na formação inicial de professores de matemática"
+        ],
+        "dc.contributor.author": [
+          "Largo, Vanessa"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/14218"
+        ],
+        "dc.date.defesa": [
+          "02.07.2013"
+        ],
+        "dc.date.created": [
+          "2013.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:29:27Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:29:27Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "7f3951d6",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/13683",
+      "consultado_em": "2026-11-15T13:19:59-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/76ea1d6a-90f6-484a-95dc-7dfeea25cde1",
+      "metadados": {
+        "dc.title": [
+          "A formação do professor de física no contexto do PIBID : os saberes e as relações"
+        ],
+        "dc.contributor.author": [
+          "Fejolo, Thomas Barbosa"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/13683"
+        ],
+        "dc.date.defesa": [
+          "25.02.2013"
+        ],
+        "dc.date.created": [
+          "2013.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:17:23Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:17:23Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "8d244620",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/13951",
+      "consultado_em": "2026-11-15T13:20:01-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/9f8a4195-80ac-4a04-8ab4-c97bfebc2a64",
+      "metadados": {
+        "dc.title": [
+          "Um modelo para a interpretação da supervisão no contexto de um subprojeto de Física do PIBID"
+        ],
+        "dc.contributor.author": [
+          "Carvalho, Marcelo Alves de"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/13951"
+        ],
+        "dc.date.defesa": [
+          "21.02.2013"
+        ],
+        "dc.date.created": [
+          "2013.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:21:38Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:21:38Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "7e928933",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/16011",
+      "consultado_em": "2026-11-15T13:20:03-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/f1f491b9-0a19-4700-bb25-7893e96b0428",
+      "metadados": {
+        "dc.title": [
+          "Os efeitos do Pibid nos anos iniciais da carreira do professor de inglês"
+        ],
+        "dc.contributor.author": [
+          "Amaral, Tuanny Gomes Siqueira"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/16011"
+        ],
+        "dc.date.defesa": [
+          "17.08.2017"
+        ],
+        "dc.date.created": [
+          "2017.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:59:26Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:59:26Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "236bd660",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/13402",
+      "consultado_em": "2026-11-15T13:20:04-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/f43c3aef-02bc-445a-8236-4d8565bb7cdc",
+      "metadados": {
+        "dc.title": [
+          "Contribuições do PIBID para a construção da identidade docente do professor de química"
+        ],
+        "dc.contributor.author": [
+          "Obara, Cássia Emi"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/13402"
+        ],
+        "dc.date.defesa": [
+          "28.06.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:14:58Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:14:58Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "6311e2e5",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/14278",
+      "consultado_em": "2026-11-15T13:20:05-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/9cb6a3db-81ec-4a3e-9e13-8a679abb2e6a",
+      "metadados": {
+        "dc.title": [
+          "Expressões faciais em situação de aprendizado no contexto do PIBID"
+        ],
+        "dc.contributor.author": [
+          "Silva, Leandro Chagas da"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/14278"
+        ],
+        "dc.date.defesa": [
+          "18.06.2013"
+        ],
+        "dc.date.created": [
+          "2013.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:29:48Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:29:48Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "5f5f63ba",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/16833",
+      "consultado_em": "2026-11-15T13:20:07-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/39569152-6407-41d9-b9be-de48fb6431ed",
+      "metadados": {
+        "dc.title": [
+          "Conhecimentos profissionais mobilizados/desenvolvidos por participantes do PIBID em práticas de ensino exploratório de matemática"
+        ],
+        "dc.contributor.author": [
+          "Marins, Alessandra Senes"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/16833"
+        ],
+        "dc.date.defesa": [
+          "26.04.2019"
+        ],
+        "dc.date.created": [
+          "2019.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T15:15:26Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T15:15:26Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "e860a1ff",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/16041",
+      "consultado_em": "2026-11-15T13:20:09-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/1a3dc99b-edca-4bd5-9c6f-28c16fc5c1ac",
+      "metadados": {
+        "dc.title": [
+          "A formação da identidade docente no contexto do PIBID : um estudo à luz das relações com o saber"
+        ],
+        "dc.contributor.author": [
+          "Araújo, Roberta Negrão de"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/16041"
+        ],
+        "dc.date.defesa": [
+          "21.03.2017"
+        ],
+        "dc.date.created": [
+          "2017.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:59:45Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:59:45Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "2ce0e35e",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/13341",
+      "consultado_em": "2026-11-15T13:20:10-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/4f5d5390-606b-447c-913b-ef1d2bbefd20",
+      "metadados": {
+        "dc.title": [
+          "O planejamento de sequências didáticas no PIBID : espaços para o desenvolvimento do aluno-professor de língua inglesa"
+        ],
+        "dc.contributor.author": [
+          "Lanferdini, Priscila Azevedo da Fonseca"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/13341"
+        ],
+        "dc.date.defesa": [
+          "12.04.2019"
+        ],
+        "dc.date.created": [
+          "2019.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:14:46Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:14:46Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "648b1c40",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/14432",
+      "consultado_em": "2026-11-15T13:20:12-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/b5606b02-a96d-49c0-8153-5852a48694e8",
+      "metadados": {
+        "dc.title": [
+          "Aprendizagem da docência no PIBID-Biologia : uma caracterização por meio dos focos da aprendizagem docente"
+        ],
+        "dc.contributor.author": [
+          "Moryama, Nayara"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/14432"
+        ],
+        "dc.date.defesa": [
+          "03.12.2013"
+        ],
+        "dc.date.created": [
+          "2013.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:31:13Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:31:13Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "0c55343f",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/16457",
+      "consultado_em": "2026-11-15T13:20:14-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/e2b99af8-96da-4d29-89e8-acca218091ee",
+      "metadados": {
+        "dc.title": [
+          "A formação de leitores na visão de licenciandos e professores do PIBID : uma análise discursiva"
+        ],
+        "dc.contributor.author": [
+          "Hamasaki, Eloisa Graziela Franco de Oliveria"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/16457"
+        ],
+        "dc.date.defesa": [
+          "18.10.2017"
+        ],
+        "dc.date.created": [
+          "2017.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T15:08:37Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T15:08:37Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "24da976e",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/8549",
+      "consultado_em": "2026-11-15T13:20:16-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/00718c95-6629-42b8-909c-5e3e0602421f",
+      "metadados": {
+        "dc.title": [
+          "O papel do PIBID na formação inicial de professores de química na Universidade Estadual de Londrina"
+        ],
+        "dc.contributor.author": [
+          "Stanzani, Enio de Lorena"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/8549"
+        ],
+        "dc.date.defesa": [
+          "08.12.2012"
+        ],
+        "dc.date.created": [
+          "2012.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T11:34:35Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T11:34:35Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "3c4092d5",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/11229",
+      "consultado_em": "2026-11-15T13:20:17-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/eae64629-b477-4db4-bf68-88d86fca7ba1",
+      "metadados": {
+        "dc.title": [
+          "Um estudo sobre o aprendizado docente no projeto PIBID/UEL : licenciatura em física"
+        ],
+        "dc.contributor.author": [
+          "Piratelo, Marcus Vinícius Martinez"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/11229"
+        ],
+        "dc.date.defesa": [
+          "04.07.2013"
+        ],
+        "dc.date.created": [
+          "2013.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T13:11:31Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T13:11:31Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "1fa02614",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/15675",
+      "consultado_em": "2026-11-15T13:20:19-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/9f631834-9502-45aa-a15a-e4ffc59dcc11",
+      "metadados": {
+        "dc.title": [
+          "Caracterização do interesse pela docência em estudantes participantes do PIBID em cursos de ciências naturais"
+        ],
+        "dc.contributor.author": [
+          "Martin, George Francisco Santiago"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/15675"
+        ],
+        "dc.date.defesa": [
+          "23.02.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:53:53Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:53:53Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "e7430f5b",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/13290",
+      "consultado_em": "2026-11-15T13:20:21-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/3f7829dd-6b19-4700-ad4f-17e04a903630",
+      "metadados": {
+        "dc.title": [
+          "Rupturas e continuidades na formação de professores : um olhar para as práticas desenvolvidas por um grupo no contexto do PIBID-inglês/UEL"
+        ],
+        "dc.contributor.author": [
+          "Gaffuri, Pricila"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/13290"
+        ],
+        "dc.date.defesa": [
+          "09.04.2012"
+        ],
+        "dc.date.created": [
+          "2012.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:11:31Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:11:31Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "a2c07553",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/11926",
+      "consultado_em": "2026-11-15T13:20:23-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/7f9d484f-d01e-455d-968c-9ea4b335a98a",
+      "metadados": {
+        "dc.title": [
+          "English language teacher s changing identities in a teaching practicum : PIBID and {coteaching|cogenerative dialogue} as opportunities for professional learning"
+        ],
+        "dc.contributor.author": [
+          "El Kadri, Michele Salles"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/11926"
+        ],
+        "dc.date.defesa": [
+          "21.03.2014"
+        ],
+        "dc.date.created": [
+          "2014.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T13:46:22Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T13:46:22Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "923dd776",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/9455",
+      "consultado_em": "2026-11-15T13:20:25-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/b22c6d95-d77e-4415-a25b-6874e537dba7",
+      "metadados": {
+        "dc.title": [
+          "Relação universidade e educação básica : impactos do PIBID na formação inicial e continuada de professores da educação infantil"
+        ],
+        "dc.contributor.author": [
+          "Arruda, Viviane Aparecida Bernardes de"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/9455"
+        ],
+        "dc.date.defesa": [
+          "17.12.2019"
+        ],
+        "dc.date.created": [
+          "2019.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T11:55:36Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T11:55:36Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "e0a530b3",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/14646",
+      "consultado_em": "2026-11-15T13:20:26-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/c96cfcb1-0481-4cf2-a914-e7380e4ea111",
+      "metadados": {
+        "dc.title": [
+          "O PIBID e as relações com o saber, aprendizagem da docência e pesquisa : caracterização de uma intervenção na formação inicial de professores de matemática"
+        ],
+        "dc.contributor.author": [
+          "Carvalho, Diego Fogaça"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/14646"
+        ],
+        "dc.date.defesa": [
+          "15.02.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:34:13Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:34:13Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "da928d3e",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/9427",
+      "consultado_em": "2026-11-15T13:20:28-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/1016b3ce-4a82-47a7-a958-f916b242fd00",
+      "metadados": {
+        "dc.title": [
+          "Racismo no ambiente escolar : consciência histórica e experiência de estudantes do ensino fundamental"
+        ],
+        "dc.contributor.author": [
+          "Oliveira, Andressa da Silva"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/9427"
+        ],
+        "dc.date.defesa": [
+          "26.10.2020"
+        ],
+        "dc.date.created": [
+          "2020.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T11:55:19Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T11:55:19Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "fc11a2a4",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/9055",
+      "consultado_em": "2026-11-15T13:20:30-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/5b772be3-26d8-4ee0-831c-88d5b25181e1",
+      "metadados": {
+        "dc.title": [
+          "Sociologia da experiência das jornadas de humanidades em uma escola pública de Londrina-PR"
+        ],
+        "dc.contributor.author": [
+          "Cavassani, Franciele Sussai Luz"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/9055"
+        ],
+        "dc.date.defesa": [
+          "06.03.2020"
+        ],
+        "dc.date.created": [
+          "2020.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T11:46:38Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T11:46:38Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "4aae4350",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/13947",
+      "consultado_em": "2026-11-15T13:20:32-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/7dd10154-3d87-4785-883e-1829651fdc88",
+      "metadados": {
+        "dc.title": [
+          "Aprendizagem(ns) para mudar totalidade(s) : uma experiência de formação colaborativa de professores(as) de língua inglesa"
+        ],
+        "dc.contributor.author": [
+          "Souza, Marta Gresechen Paiter Luzia de"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/13947"
+        ],
+        "dc.date.defesa": [
+          "19.04.2013"
+        ],
+        "dc.date.created": [
+          "2013.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:21:34Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:21:34Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "2e270941",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/14762",
+      "consultado_em": "2026-11-15T13:20:33-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/ea6b2d2b-eb4e-42d4-b1fd-b450daadb862",
+      "metadados": {
+        "dc.title": [
+          "Estudo dos saberes da ação pedagógica sob a perspectiva da matriz 3X3"
+        ],
+        "dc.contributor.author": [
+          "Machado, Elaine da Silva"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/14762"
+        ],
+        "dc.date.defesa": [
+          "15.02.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:36:23Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:36:23Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "ccbfa9a6",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/15933",
+      "consultado_em": "2026-11-15T13:20:35-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/15df5a54-5539-4894-83b2-0c6147ccc149",
+      "metadados": {
+        "dc.title": [
+          "WebQuest no ensino de química : uma análise das tarefas utilizando a Taxonomia Digital de Bloom"
+        ],
+        "dc.contributor.author": [
+          "Faraum Junior, David Pereira"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/15933"
+        ],
+        "dc.date.defesa": [
+          "26.04.2017"
+        ],
+        "dc.date.created": [
+          "2017.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:58:37Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:58:37Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "0506c640",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/16050",
+      "consultado_em": "2026-11-15T13:20:37-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/508427a8-d3cd-44cc-b3c5-1b13a2d231c0",
+      "metadados": {
+        "dc.title": [
+          "Práxis de ensino colaborativo como lócus de argumentação, deliberação e aprendizagem expansiva"
+        ],
+        "dc.contributor.author": [
+          "Fiori-Souza, Adriana Grade"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/16050"
+        ],
+        "dc.date.defesa": [
+          "02.12.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:59:51Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:59:51Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "13615019",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/15679",
+      "consultado_em": "2026-11-15T13:20:39-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/f36dcc69-6d98-4235-a79c-04fb14613d83",
+      "metadados": {
+        "dc.title": [
+          "Múltiplos olhares dos estudantes do ensino médio de Londrina e Rolândia/PR : uma caracterização sociológica"
+        ],
+        "dc.contributor.author": [
+          "Corrêa, Cristiano Pinheiro"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/15679"
+        ],
+        "dc.date.defesa": [
+          "06.09.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:53:59Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:53:59Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "fe0699e5",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/17224",
+      "consultado_em": "2026-11-15T13:20:40-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/60d5e4f1-08f9-4a3f-8ba1-d3b490f8a3a5",
+      "metadados": {
+        "dc.title": [
+          "Plataforma “Inglês Paraná”: representações, discursos e ideologias."
+        ],
+        "dc.contributor.author": [
+          "de Deus, Renan William Silva"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/17224"
+        ],
+        "dc.date.defesa": [],
+        "dc.date.created": [],
+        "dc.date.accessioned": [
+          "2024-08-19T14:29:54Z"
+        ],
+        "dc.date.available": [
+          "2024-08-19T14:29:54Z"
+        ],
+        "dc.date.issued": [
+          "2024-03-28"
+        ]
+      }
+    },
+    {
+      "codigo": "dada1775",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/12951",
+      "consultado_em": "2026-11-15T13:20:42-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/b0c5ddec-7b9b-4c25-bae2-b2be7bb6f6cc",
+      "metadados": {
+        "dc.title": [
+          "Entre quatro binários : um estudo sobre desenvolvimento profissional docente"
+        ],
+        "dc.contributor.author": [
+          "Chimentão, Lilian Kemmer"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/12951"
+        ],
+        "dc.date.defesa": [
+          "04.03.2016"
+        ],
+        "dc.date.created": [
+          "2016.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T14:04:32Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T14:04:32Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "11e0c571",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/9516",
+      "consultado_em": "2026-11-15T13:20:44-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/cb7fd1b9-8677-4e57-bc30-31ef7467e6fa",
+      "metadados": {
+        "dc.title": [
+          "Representações de atores sociais no estágio docente do curso de geografia : contexto de inclusão de alunos com deficiência"
+        ],
+        "dc.contributor.author": [
+          "Rosa, Hallison Fernando"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/9516"
+        ],
+        "dc.date.defesa": [
+          "09.09.2019"
+        ],
+        "dc.date.created": [
+          "2019.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T12:08:36Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T12:08:36Z"
+        ],
+        "dc.date.issued": []
+      }
+    },
+    {
+      "codigo": "6ecea848",
+      "url_identificador": "https://repositorio.uel.br/handle/123456789/10496",
+      "consultado_em": "2026-11-15T13:20:46-03:00",
+      "situacao": "Identidade conferida",
+      "url_api": "https://repositorio.uel.br/srv-c0003-s01/api/core/items/71dd356c-10fd-4666-b2dd-f1aa059b888a",
+      "metadados": {
+        "dc.title": [
+          "Dimensões relacionais da docência proporcionadas a estudantes da licenciatura em química da UEL"
+        ],
+        "dc.contributor.author": [
+          "Souza, Miriam Cristina Covre de"
+        ],
+        "dc.identifier.uri": [
+          "https://repositorio.uel.br/handle/123456789/10496"
+        ],
+        "dc.date.defesa": [
+          "30.11.2018"
+        ],
+        "dc.date.created": [
+          "2018.00"
+        ],
+        "dc.date.accessioned": [
+          "2024-05-01T12:43:48Z"
+        ],
+        "dc.date.available": [
+          "2024-05-01T12:43:48Z"
+        ],
+        "dc.date.issued": []
+      }
+    }
+  ]
+}

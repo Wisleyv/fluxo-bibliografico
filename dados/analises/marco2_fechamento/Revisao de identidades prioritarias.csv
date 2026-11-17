@@ -1,0 +1,7 @@
+﻿registro_a,registro_b,decisao,fundamento
+BASE:c370c6d5,BASE:bc0f1ea5,confirmada,"UNIPAMPA/Jaguarão; título, Igor Galho Teixeira, dissertação e defesa 2024; resumos espanhol/português com mesmos objetivos e três encontros de duas horas."
+BASE:ced05892,BASE:b05f93c0,confirmada,"UFS; título, Cheila Raiane Menezes Oliveira, dissertação e defesa 2024; resumos inglês/português com mesmo objeto de pensamento computacional e oficinas PIBID."
+BASE:dcee17bd,BASE:f40e06af,confirmada,"UFMS/TeDiMEM; título, Juliana Leal Salmasio, tese e defesa 2024; resumos traduzidos com oito estudantes e 32 reuniões PIBID."
+BASE:ebceb9d5,https://openalex.org/W1980441681,confirmada,"Mesmo URL SciELO PID S2176-66812013000300007 nas localizações OpenAlex; título, 2013 e três autoras compatíveis; afiliações indevidamente concatenadas como autores na API."
+BASE:a87df351,https://openalex.org/W4292209810,distintas relacionadas,"Tese UECE 2021, ID siduece 98506, versus publicação em periódico RBPAB 2022, volume 7(20), páginas 241–246 e DOI próprio. Resumo de tese reproduzido não apaga a publicação distinta."
+https://openalex.org/W4292209810,https://openalex.org/W7119248750,distintas relacionadas,"Tese UECE 2021, ID siduece 98506, versus publicação em periódico RBPAB 2022, volume 7(20), páginas 241–246 e DOI próprio. Resumo de tese reproduzido não apaga a publicação distinta."

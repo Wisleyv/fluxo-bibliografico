@@ -1,0 +1,70 @@
+[
+  {
+    "aba": "G1 Nacional",
+    "grafico_nativo": 1,
+    "series": 1,
+    "primeira_serie": "=SERIES(Anos!$B$1,Anos!$A$2:$A$21,Anos!$B$2:$B$21,1)",
+    "titulo_e_nota": "Brasil — publicação por ano\rParcial | N=7.779; 2 obras divergentes fora da curva\r2026 até 08/11; coletas: OpenAlex 15/11 e CAPES 16/11/2026",
+    "png": "dados/entregas/marco5_capes_20261116/previews/G1.png",
+    "resultado": "OK"
+  },
+  {
+    "aba": "G2 Goiás",
+    "grafico_nativo": 1,
+    "series": 2,
+    "primeira_serie": "=SERIES(Anos!$C$1,Anos!$A$15:$A$21,Anos!$C$15:$C$21,1)",
+    "titulo_e_nota": "Goiás — publicação e defesa separadas\rConsolidado nas 97 inclusões: 93 publicações + 4 defesas\r871 pendências fora; versões podem acrescentar 1–2 obras; 2026: corte 08/11",
+    "png": "dados/entregas/marco5_capes_20261116/previews/G2.png",
+    "resultado": "OK"
+  },
+  {
+    "aba": "G3 Tipos GO",
+    "grafico_nativo": 1,
+    "series": 1,
+    "primeira_serie": "=SERIES(Tipos!$C$1,Tipos!$B$15:$B$19,Tipos!$C$15:$C$19,1)",
+    "titulo_e_nota": "Goiás — tipos documentais\rConsolidado nas 97 obras observadas\r871 pendências fora; quatro inclusões por defesa",
+    "png": "dados/entregas/marco5_capes_20261116/previews/G3.png",
+    "resultado": "OK"
+  },
+  {
+    "aba": "G4 Afiliação",
+    "grafico_nativo": 1,
+    "series": 1,
+    "primeira_serie": "=SERIES(Afiliação!$B$1,Afiliação!$A$2:$A$4,Afiliação!$B$2:$B$4,1)",
+    "titulo_e_nota": "Brasil — cobertura de afiliação\rParcial | N=7.779; conhecida 3.024, parcial 1.485, desconhecida 3.270\rConhecida refere-se às autorias observadas no arquivo",
+    "png": "dados/entregas/marco5_capes_20261116/previews/G4.png",
+    "resultado": "OK"
+  },
+  {
+    "aba": "G5 Eixos",
+    "grafico_nativo": 1,
+    "series": 3,
+    "primeira_serie": "=SERIES('Indicadores eixos'!$B$1,'Indicadores eixos'!$A$2:$A$4,'Indicadores eixos'!$B$2:$B$4,1)",
+    "titulo_e_nota": "Goiás — estados da evidência nos três eixos\rConsolidado: 97 obras por eixo; 291 extrações\rNão informado e Não verificável não são ausência do fenômeno",
+    "png": "dados/entregas/marco5_capes_20261116/previews/G5.png",
+    "resultado": "OK"
+  },
+  {
+    "aba": "G6 Tipos BR",
+    "grafico_nativo": 1,
+    "series": 1,
+    "primeira_serie": "=SERIES(Tipos!$C$1,Tipos!$B$2:$B$14,Tipos!$C$2:$C$14,1)",
+    "titulo_e_nota": "Brasil — tipos documentais\rConsolidado no corpus operacional de 7.779 obras\rGrau não discriminado preservado; universo nacional parcial",
+    "png": "dados/entregas/marco5_capes_20261116/previews/G6.png",
+    "resultado": "OK"
+  },
+  {
+    "arquivo": "Planilha final PIBID.xlsx",
+    "excel": "16.0",
+    "abas": 27,
+    "recalculo": "CalculateFullRebuild",
+    "resultado": "OK"
+  },
+  {
+    "arquivo": "Matriz de cobertura e sobreposicao.xlsx",
+    "excel": "16.0",
+    "abas": 11,
+    "recalculo": "CalculateFullRebuild",
+    "resultado": "OK"
+  }
+]

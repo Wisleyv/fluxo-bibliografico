@@ -1,0 +1,14 @@
+﻿indicador,estado,base_denominador,limite
+Tamanho dos corpora e correspondência,consolidado nos arquivos operacionais,7779 nacionais; 97 regionais; 78 correspondentes,Não é fechamento do universo não observado.
+Evolução nacional,parcial,7779 obras; 7777 com ano unívoco; 2 divergentes,2026 incompleto e anos conflitantes em categoria própria.
+Tipos documentais,consolidado no corpus operacional,7779 / 97,Harmonização de rótulos; dissertation sem grau continua sem grau.
+Autorias e instituições,parcial,7752 / 97 com autoria; 4228 / 83 com instituição mapeada,Créditos integrais e fracionários; identidades arquivadas sem auditoria global.
+Distribuição por país de afiliação,parcial,4228 / 7779 nacionais; 83 / 97 regionais,País da instituição não é contexto empírico nem nacionalidade da autoria.
+Distribuição completa por UF/região,não estimável,UF/região não coletadas em authorships,Não inferir todas as UFs a partir de nomes institucionais.
+Grupos de pesquisa,não estimável,Sem campo identificador de grupo,"Tópico, instituição e coautoria não substituem grupo."
+Redes de colaboração consolidadas,não estimável nesta rodada,6198 nacionais com coautoria observada; afiliação incompleta,"Rótulos institucionais em autoria, fragmentação possível e cobertura desigual; não gerar grafo como rede nacional representativa."
+Temáticas OpenAlex,parcial,7777 / 7779 nacionais; 93 / 97 regionais com tópico principal,"Classificação algorítmica, não categorias dos autores."
+Participação goiana identificada,parcial,196 / 7779; 67 / 3459 no período comum,Fração observada com os mesmos critérios; ausência de afiliação não é negativo.
+Participação total Goiás–Brasil,não estimável,Universo e afiliação incompletos,Não calcular 97 / 7779 nem extrapolar a fração identificada.
+Contexto goiano documentado,consolidado no corpus regional observado,56 contextos documentados e 2 objetos goianos; 97 obras examinadas,Não equivale a 58 pesquisas em escolas goianas; contexto nacional não foi triado integralmente.
+Três eixos canônicos,consolidado como estados de informação do corpus observado,291 pares = 97 obras x 3 eixos,Não informado e Não verificável não são ausência do fenômeno; sem inferência causal.

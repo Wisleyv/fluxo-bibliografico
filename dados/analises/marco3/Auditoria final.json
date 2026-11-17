@@ -1,0 +1,20 @@
+{
+  "unidades_antes": 1530,
+  "unidades_depois": 1529,
+  "fusoes_adicionais": 1,
+  "decisoes": {
+    "Excluir": 561,
+    "Incluir": 97,
+    "Pendente": 871
+  },
+  "registros_origem": 2053,
+  "revisoes_individuais": 109,
+  "eixos": 291,
+  "estados_eixos": {
+    "Presente": 123,
+    "Não informado": 145,
+    "Não verificável": 23
+  },
+  "extracoes_historicas": 57,
+  "correcoes_de_extracao": 11
+}

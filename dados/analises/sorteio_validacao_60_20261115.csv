@@ -1,0 +1,61 @@
+﻿codigo,fonte,situacao_temporal,sinal_goias,resumo,N,n,probabilidade_n_sobre_N
+5dbf2cee,BDTD,so_defesa_2020_2026,com_sinal,com_resumo,8,1,1/8
+06792f41,BDTD,so_defesa_2020_2026,sem_sinal,com_resumo,356,7,7/356
+a87df351,BDTD,so_defesa_2020_2026,sem_sinal,com_resumo,356,7,7/356
+f1d6e487,BDTD,so_defesa_2020_2026,sem_sinal,com_resumo,356,7,7/356
+d8c34b08,BDTD,so_defesa_2020_2026,sem_sinal,com_resumo,356,7,7/356
+39d17c27,BDTD,so_defesa_2020_2026,sem_sinal,com_resumo,356,7,7/356
+7ef5319f,BDTD,so_defesa_2020_2026,sem_sinal,com_resumo,356,7,7/356
+3ee25c3e,BDTD,so_defesa_2020_2026,sem_sinal,com_resumo,356,7,7/356
+c3920958,BDTD,so_defesa_2020_2026,sem_sinal,sem_resumo,4,1,1/4
+dca33e23,BDTD,so_defesa_fora,com_sinal,com_resumo,26,1,1/26
+48a2ba69,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+21fa3a9d,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+0e53fce8,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+61e645a4,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+d410253d,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+46baf45a,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+37c217c8,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+1bfed0a9,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+e03ee3e1,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+cc81f40d,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+3c4e19a5,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+d3f411d6,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+8be0f2b5,BDTD,so_defesa_fora,sem_sinal,com_resumo,647,13,13/647
+7b83d4de,BDTD,so_defesa_fora,sem_sinal,sem_resumo,19,1,1/19
+2b862179,Catálogo CAPES,so_defesa_2020_2026,com_sinal,com_resumo,3,1,1/3
+969dc972,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+bebf73ba,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+fe0ff0a0,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+401f22b2,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+f116ff8b,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+16954ac9,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+b05f93c0,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+011e7d10,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+fa78dc43,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+6ef0db70,Catálogo CAPES,so_defesa_2020_2026,sem_sinal,com_resumo,75,10,10/75
+796dae04,Portal CAPES,piloto_avancar,com_sinal,com_resumo,17,2,2/17
+7d7f7dda,Portal CAPES,piloto_avancar,com_sinal,com_resumo,17,2,2/17
+27027026,Portal CAPES,piloto_avancar,sem_sinal,com_resumo,1,1,1/1
+b954db99,Portal CAPES,piloto_pendente,com_sinal,com_resumo,2,1,1/2
+1f57e062,Portal CAPES,piloto_pendente,sem_sinal,com_resumo,16,2,2/16
+9f03ff66,Portal CAPES,piloto_pendente,sem_sinal,com_resumo,16,2,2/16
+47666a68,Portal CAPES,publicacao_fora,com_sinal,sem_resumo,12,1,1/12
+f39bc19f,Portal CAPES,publicacao_fora,sem_sinal,sem_resumo,55,7,7/55
+e290d29b,Portal CAPES,publicacao_fora,sem_sinal,sem_resumo,55,7,7/55
+2f75ccd4,Portal CAPES,publicacao_fora,sem_sinal,sem_resumo,55,7,7/55
+0ad30f52,Portal CAPES,publicacao_fora,sem_sinal,sem_resumo,55,7,7/55
+83224e28,Portal CAPES,publicacao_fora,sem_sinal,sem_resumo,55,7,7/55
+be3fc1e9,Portal CAPES,publicacao_fora,sem_sinal,sem_resumo,55,7,7/55
+ff6f3a7b,Portal CAPES,publicacao_fora,sem_sinal,sem_resumo,55,7,7/55
+756a137b,SciELO,publicacao_2020_2025,sem_sinal,com_resumo,30,4,4/30
+a14b55f4,SciELO,publicacao_2020_2025,sem_sinal,com_resumo,30,4,4/30
+4c80c96b,SciELO,publicacao_2020_2025,sem_sinal,com_resumo,30,4,4/30
+b75aa46e,SciELO,publicacao_2020_2025,sem_sinal,com_resumo,30,4,4/30
+fe4d6c4f,SciELO,publicacao_2026_data_pendente,sem_sinal,com_resumo,3,1,1/3
+387c5254,SciELO,publicacao_fora,com_sinal,com_resumo,1,1,1/1
+5f0558a6,SciELO,publicacao_fora,sem_sinal,com_resumo,42,5,5/42
+29aa6c83,SciELO,publicacao_fora,sem_sinal,com_resumo,42,5,5/42
+7b6cd7a4,SciELO,publicacao_fora,sem_sinal,com_resumo,42,5,5/42
+ebceb9d5,SciELO,publicacao_fora,sem_sinal,com_resumo,42,5,5/42
+5f384eb6,SciELO,publicacao_fora,sem_sinal,com_resumo,42,5,5/42

@@ -1,0 +1,79 @@
+{
+  "fonte": "SciELO, URLs canônicas após falha do endereço anterior",
+  "registros": [
+    {
+      "codigo": "2511e505",
+      "url_consultada": "https://www.scielo.br/j/bolema/a/V9FYB4StxBNnjhbrbTrbPnM/?lang=pt",
+      "consultado_em": "2026-11-15T12:31:17-03:00",
+      "metadados": {
+        "citation_author": [
+          "Jesus, Marília Alana Costa de",
+          "Santos, Natanael Barreto dos",
+          "Araujo, Renato Santos"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal de Sergipe (UFS)",
+          "Universidade Federal de Sergipe (UFS)",
+          "Universidade Federal de Sergipe (UFS)"
+        ],
+        "citation_doi": [
+          "10.1590/1980-4415v37n75a07"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "codigo": "ec62cd2a",
+      "url_consultada": "https://www.scielo.br/j/bolema/a/MxLx6sx4zqtjrGSdyr9nmmL/?lang=pt",
+      "consultado_em": "2026-11-15T12:31:18-03:00",
+      "metadados": {
+        "citation_author": [
+          "Marins, Alessandra Senes",
+          "Teixeira, Bruno Rodrigo",
+          "Savioli, Angela Marta Pereira das Dores"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual Vale do Acaraú",
+          "Universidade Estadual de Londrina",
+          "Universidade Estadual de Londrina"
+        ],
+        "citation_doi": [
+          "10.1590/1980-4415v35n69a15"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2021"
+        ]
+      }
+    },
+    {
+      "codigo": "09575fa8",
+      "url_consultada": "https://www.scielo.br/j/pp/a/YdpWQNDPVC6zgzfYgwKYW7P/?lang=pt",
+      "consultado_em": "2026-11-15T12:31:18-03:00",
+      "metadados": {
+        "citation_author": [
+          "Gimenes, Camila Itikawa"
+        ],
+        "citation_author_affiliation": [
+          "Rede Municipal de Educação de São Paulo"
+        ],
+        "citation_doi": [
+          "10.1590/1980-6248-2018-0096"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2021"
+        ]
+      }
+    }
+  ]
+}

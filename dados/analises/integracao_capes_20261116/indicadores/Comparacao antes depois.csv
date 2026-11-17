@@ -1,0 +1,17 @@
+﻿escopo,indicador,antes,depois,diferenca,unidade
+nacional,N,7780,7779,-1,obras no corpus observado
+nacional,autoria,7753,7752,-1,obras no corpus observado
+nacional,instituicao,4228,4228,0,obras no corpus observado
+nacional,geografia,4228,4228,0,obras no corpus observado
+nacional,tematicas,7777,7777,0,obras no corpus observado
+nacional,goias,196,196,0,obras no corpus observado
+goiano,N,97,97,0,obras no corpus observado
+goiano,autoria,97,97,0,obras no corpus observado
+goiano,instituicao,83,83,0,obras no corpus observado
+goiano,geografia,83,83,0,obras no corpus observado
+goiano,tematicas,93,93,0,obras no corpus observado
+goiano,goias,80,80,0,obras no corpus observado
+nacional,Evolucao nacional.csv: 2016,575,574,-1,obras
+nacional,Tipos documentais nacional.csv: artigo,5968,5967,-1,obras
+nacional,Coautoria nacional.csv: Não,1555,1554,-1,obras
+nacional,Obras com recuperação Portal CAPES,83,571,488,"obras elegíveis; proveniência, não novas inclusões"

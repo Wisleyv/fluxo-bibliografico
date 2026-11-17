@@ -1,0 +1,621 @@
+{
+  "hashes_entradas": {
+    "dados\\analises\\marco2_fechamento\\Corpus nacional.csv": "02137d8e71d9247bcb5e1287709a1c67241dae79a8b2d9e9c71fb3ffb7dd4ee4",
+    "dados\\analises\\marco2_fechamento\\Registro de decisoes.csv": "74935aa321c76169567c798c2edc291f4586548e83eaabf050ebce5619eaba08",
+    "dados\\analises\\marco2_fechamento\\Proveniencia.csv": "b4d3f083845a134eb18ac44d3ffd4bb0baf29fcc2b0e5b774649ce20dd573d24",
+    "dados\\analises\\marco3\\Corpus goiano.csv": "c532e982f3c2b812848fb56f82274fa3fb54f12416d0449f1f7326595e4e8dbc",
+    "dados\\analises\\marco3\\Decisoes regionais.csv": "68aebc5f18ab049338fa53550c3ac623e662cc13545668e1cb46224fb0b8db1b",
+    "dados\\analises\\marco3\\Proveniencia regional.csv": "fc6eb9894c980882c31414603130aa003bad8e007d4f945f2a191e5638df5581",
+    "dados\\analises\\marco3\\Tres eixos.csv": "7bfc7352971410c6858098a86e2bc8b70709a427c6b58f9ed5946d38dc789c69",
+    "dados\\analises\\marco3\\Pendencias regionais.csv": "f642238d3d0035cf6a9e37551c2daea57e97a17130bd3573f4a4ab6206c4d6c4",
+    "Vaneria.txt": "8a9a76981271d350a9a8a84821b892be59a0ec8da19889bd5ace441b31fab916",
+    "Plano de ação - realinhamento da coleta e análise.md": "ba36d04e4e8d4217e202a9b50f96b42356f99ba07492f8a391c8241b841fafed",
+    "Protocolo de busca bibliométrica - v1.3 fechamento nacional.md": "4303beaed94db2ee62e7e76d5aaab60079248716ec5965deddf9df05a4f54bb2",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0001.json": "e9e67436d10c58bfe1fa4fd4faf41f3cf2054736d706a28a8633cc7b22c6072d",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0002.json": "4400e81ae26b94336e93131fe700699e2592ec1a57a2ed9539af1254dcf624c9",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0003.json": "b57523b9d2db7a132bd93247af0e6027d2bdd2c89772e2e3496a2b26fda59672",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0004.json": "688ba412e18aa9df89b7cc2ad35ad3b5b97e3b4117d2f47c7c39cac59e3c82cb",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0005.json": "b48879df8c752e7d402dd890491a53361f50688b0ea6d7c0430be96bcfb2844d",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0006.json": "4a615b87d32078390bfdce2add63dd30e8158ea0cfbfacf06f8f763227e0a59d",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0007.json": "be69265ba2c631cd7c456a079c86e292b63400142644658631911f9f64c51279",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0008.json": "c87aba7ef3fadd28299716490603a0d0c9fce1116cc945eb9135244535dc8721",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0009.json": "ee85cccf7a6f57e0694f0f3c0cf921bb44e3d083f465a88b8e2ca0731c55f9c7",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0010.json": "76d57397c729b8fc3712fb4b7f5a8f03b4d4515cf47d8d6d307d4b8b44a8530f",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0011.json": "0f88c994bcfc04da741e444c7446fe891b6bc0ae53791ecfc4e6b7b3b4139b44",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0012.json": "ab3b82ac15f9233c1a132ba9498e56a2a83652ebe5d68ccf1c9aa912285d6e4f",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0013.json": "37665b83272f0d5712d88c16cd1a22cefb5e608014bd59138099f23633a7ce3c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0014.json": "da602e89cc3ec50d3238758035f812fca75290e7b760443de2f1e8b914438afd",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0015.json": "b75030c4c0d1266c411ae7ceea89057047e9b7cbbf420a3585b5bf91c1b48bd8",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0016.json": "2c240d241a117e9432e506dafa59eb77ceea232d831e67c0da862be1feb6b64d",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0017.json": "a1d467bd10bb6310efceaac5b2c01083a6ed273b449cf480909575f532c5fd71",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0018.json": "21386f0264d62e039b6d539510ebdcfa5fc002b12b7ae3d33df15c6a741680dd",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0019.json": "00681ebcd96dcae7ab8f92939f96f583795695122039051283e9a1a263ebd885",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0020.json": "da79561a084715814872a05dc1e9fdf1921211f4048c7d6b8370a9ba04cad858",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0021.json": "8614dd06e7a972ae82110c3910cb3da70ac3dee44ca6932ad7e41db3b336cefd",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0022.json": "b239f2a7529b2addd5af8e6391f6fd7c6a87f850f335765d08d72239feb328cc",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0023.json": "5ebc8ec6a3ae44fc206bf3f0e4fafa5456103731447d0cde8c3a371240cef49e",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0024.json": "ce03fa0bb758cc724f6920bda9b8a8226df0adf354d8bb12b0c585f54f50d47c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0025.json": "1df47f815d9c28cc1e2867586d0b7762dbde7be23b38ccab5416d1d38b0703d4",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0026.json": "e04c77ec2c4281d77675301e1190409c922cc28fd05bf3403a9def87f2acae9a",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0027.json": "bba676172029d3f6e7e51fab30e43d3c6ca5de2ea3406018b2a8afc6d7a5e0d4",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0028.json": "10757da32f3c2b6bcdb6528cbcd7fe07edb3bf0fdb3ea5bf1d53505156bbc989",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0029.json": "ffd733639854950a751ec033d8a8de63263ed968775971b8d3db57cacba5238f",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0030.json": "0ffcf9ee6c1f78898f23aafb6dbf6c1f76df0a062176dc7ed374d9ef4d763df2",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0031.json": "c1aa948ef3d87072eccbf14fd4e08417ccdda9b25826db0413ee2bc80ae4d9e4",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0032.json": "bfe77322a86bbe205cab6dc0470d052d1b64cd0511fca396c31fa63ea54e6164",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0033.json": "3f7153570f6347008e984a913be5c3d874a6909ccc84077b658d8b62235cc56a",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0034.json": "6309cd69df620421c1119d06e5054c94970ebbae09725ebb93a3c543d47e55f8",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0035.json": "4cf6ce8503c147b6493dcde70f95601bbb4341480fc8f4bcc3ba2e5a6e6cf29c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0036.json": "96785dbfa5d98fdebe36a72ae6737806a5a5db6bb2e25d4f06e99620559ba5af",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0037.json": "c953b68cae3779f1bb18f2a735e7a30f6fe2d3d7cbf10e0f59d02bdf96b0b27a",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0038.json": "05b9a0c997d00ba8766ee5a35a4799fcfc04a7fd67a03560148af394cc83ed08",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0039.json": "f3ee9f229d3c0738896de73f94628a641cc8e90d09a84a15fa8aeed31b9d3b26",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0040.json": "ae2f00b2d8f8a0674c38419a8aa747deaf01419773d2c2d72978344580ac4338",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0041.json": "0f83b712f35815b7615c64115907ace47df7b30b6b3c81ddb3b92992935aa82c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0042.json": "aa52770d1f655c30d05856a62b52bc852391532aab7879ab140c5614d5cca4fa",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0043.json": "9c1683813d9341a5fec5912708199fa0e3054a4a0d8e178d35dad9a3a7ead4e5",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0044.json": "abc84c39534ebda65333b2c85fb779377eb8d612125b4a6491a22ffc80d646e3",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0045.json": "280c49a8c3197a11304ef9073c1a0f2b6d091f5935a706b2ec76fb463a1a9906",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0046.json": "c7351cf4caac0a2f43d5ac98324fbf2cb46495ba7e3dc12ca518718fa36f2d7b",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0047.json": "604aa0fa98810684e09b2c59aa37b486630c2dbd3125766ccf461afe77a0e1a8",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0048.json": "9b1bfaf18f66057b2de22f54dfa4e6cd55030c7706dabd248ddad2b838fb975d",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0049.json": "108807600a745c3f335689811c45df436ea8bfdc7855eaf69c84ea7b2f5c6ad0",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0050.json": "b8d777b6fe9854af08d56ca3a7fdddece6b73dd47e50202f181c75275b8aed8f",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0051.json": "f00ab74053899e3e525316687ea850990945b24e600a96c7e93a9a579618c405",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0052.json": "702dc072677cddd3d005cc6198db96b04ae30d374b9b676a12249f973cf656bc",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0053.json": "dcf79821c93cc9f9a4ab22c5619ebc1daa6ecc01f075cbe43a298dacf0572677",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0054.json": "5c7128eb02362841a3219c7627076890d91ff73ab58bde71eefb3f576a1b0c5e",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0055.json": "1bd6ca434d1c77bb2fdf75e35699247d0d0bddaa6b33405006783bb562cbe9f0",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0056.json": "e606a414b6077142ab0ca4fbc083ccfc3b3acedd57a35deed9367c532c6cfbca",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0057.json": "a800663bdcd7dc50aaaa9a2cd80701e34c449419d4a8c6c507f419534339bf0f",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0058.json": "0ba2e3512f9699740d0ea2ebf84ae6adb79af27af9ff49955ae8faa32fab51e9",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0059.json": "f2f5859204796d13d8d8ed90c62b62e92aa9998e5deb80a75a80d2f93e2ea501",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0060.json": "73905e49f35c70bb9df2209e3e382b6ac119261dfd713f389d57bb9ca4e28aa2",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0061.json": "66b8c83d734e44ea62228e1c0126b19bd448e2e103fe042a0a2c4a8ae89573bd",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0062.json": "3ddf9587e8ceaf0c1b05911a8e60d1d2a5aa5444a1e4077bda3efb128d3bc85c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0063.json": "592ed1877bdd851e668aa6d4df6182306a58f08f9b6273b6f104e4f6ae692152",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0064.json": "e7b2c944d355fd29390dfcef5ed481c8dac4bf86a4f87b81c560b29cca6def9d",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0065.json": "d7070bf8fd1b31eafb750019fdd8cb9618c245c58b56de67ba90c9855a588a10",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0066.json": "cbb1c3615761841f484ab548e9f72c8a567249e4be44bfa4e918ece2d850cbd4",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0067.json": "d8dfe6ff169b92d32b31888f4bea895c8868eb681c6ee424cbeff05572608836",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0068.json": "a895286140c1376b2d6baa611e142678f659fd948eee666dd9f22adaea782c1f",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0069.json": "8268ead2fb2359074ac6c7882eb2c216da253093a7358333968dddc8d12c8648",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0070.json": "5f79bbee5d494f036aa0c70391690e03293d9e4f19bb92f0303538b64a865b5e",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0071.json": "cf62ddb921ad501c8347e5c8fba4a9a9aae3230772f356d827983ca6ece06e7d",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0072.json": "6efa0eac04afece207e61ab956915abb113c921ce16a57fb7cbd7074a82f9a52",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0073.json": "493199b0cef292838566405c21e84ec767c92343d0083ee8f052805eb100bfad",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0074.json": "6e35ba41ad88dd658a730956161bc4a1bc2f471acf3af2914c19d2aa0256059e",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0075.json": "d79525778ae950722709ab788bbf404f3dd30974ade739089c3bf1fc958e888a",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0076.json": "ad8264e83be08830c67abd87b56e64f89b89fc4800d6284ffa2380addf5ef0d2",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0077.json": "3a40271e12ef57b608c83e43a616c590a0212e9c9e90f7ea76b4cd0a705085a3",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0078.json": "f7749c7a4617405132a9a5f48dea394920d2c6c2cd327accdc6402fd702881e9",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0079.json": "30906e604cd6b55b9d136e37768fc69916a73f712399ae939dddf145abdd7386",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0080.json": "5c57e9f472998e20aed1fbe21d4ab44303512e4637d2c5f7c084ffad9578ea67",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0081.json": "30bf0049f86755a96e198eba2777c080e3881bcba1fdd4abb4ac153e7a492c08",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0082.json": "ad3b69e4e4c74e9088bbd6fae1721c3cedf7b82e70aa74e1b251de4c33b30b5e",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0083.json": "7b998c56f0db8321525ba7154e97b6245f1902bce9edfe4d297d318681484b30",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0084.json": "3309fb183f24532f11c7bb8071ab0b5e8e3064baedf649204e1451e49e571c0f",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0085.json": "aa2fcc8733ac59c509117deeb5a1885955edef00f80dfc3f8a748d77bac21da5",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0086.json": "964e53da776ce45b12637ca9ebf16c136a0ad9e3ddfea255dd550d576d82a5ab",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0087.json": "55ba2befc7b0ef9e64ccfa11088cecd9650209eb8087fbfbd4fe3698d792587a",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0088.json": "3159e92561b178b1b75a046434294ef9bb5d935a5b2f9bdff9268464a82301ce",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0089.json": "234b6c1340b90d172e7579c92e1f0802654c8fa72171d6161a0703d744e5c339",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0090.json": "ea784f9b21aecff498d90cfb133d43107c3ea3a73346086759c34685f0a96d68",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0091.json": "d8398c26c589e8acb74e27368776f2b0a95d5458dc841cce9c4601b6f3ed3ea6",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0092.json": "a1994ce5ef4f164f01301c2709b18791d3c5dcff479ff38bd590513f6edfed7c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0093.json": "4c386fc24a11379b9d635002751956771efe771ac5b65aa3800368b54c20b749",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0094.json": "97288932a3953becb9b499a0aa7b9973ef605883b851a0c2562b8d12df412d07",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0095.json": "6e897280901c1e5967d545ad4524f60006676128345e131b0157e82e4b223929",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0096.json": "02a29665c5ef39ead22cd3d3feb7c6398f7de9765a4a3cfa7e1186923e6f1502",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0097.json": "732ccc21bb0fdeee4ebd9c2616e919447eb2a8cb90ba78ad35ba456f2dd1a1a6",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0098.json": "7045d9de655a0c7e85a9b9c028d05247c441cd803fef8e78e78514efd7129c56",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0099.json": "3ddd7a50fb8bb03e8a5c1eb6d3ecc559522f385213732266ed661a02814f547e",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0100.json": "2c86a60ea473fc1a9baef39c36a2c09d53aec5c6381856b6fd66d0518a5dd0a7",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0101.json": "662b579f0e8e463e3813075b18d064cd981781b232b402fd16785ab3d0546ece",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0102.json": "de240d33236d99b0ad94c9e0d886258f0bbc0adf0d2c3c69dab7ac8ca1f22c06",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0103.json": "2c1a7c6f858b9dcf22f253d9d3df8848d185b179da8efa38e8cd3008bff16bdf",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0104.json": "4f727c53dbbc3fd829fc5dd1378e6cbfd370e5f0ae758975812bbdca9f4a1410",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0105.json": "1ca29c60c3677a1671b8df8a2231d28efb903ab6986ae0c10d1337b6f66b776b",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0106.json": "ea4b9ad9f5a18fbeb2745275c99f8f332f03ae1876301ca0eea4fb8368a0a56b",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0107.json": "0ae1747bed4d550b0b51d09edafb3bf8198aeec2b27eae0ce110f6ac06b9ee4c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0108.json": "41d66d17ccce615e0061393f18d38a3c282334507ac432d4981e957ff52f4959",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0109.json": "fdd8f63a4ccd8e4fa4748226bfb9c8fb718b5d2050a1a7cadb117395625652d8",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0110.json": "12636531edd7629ec958644aba99b0866f3fc8877a61786ee0a72e3b5c3b9930",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0111.json": "2fde57162dcd7c6e404f8ab628dc28cbdef80b66bbc32c65a98048ece070f82c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0112.json": "fe6daee4f5ea288012f0a22c97fd648c1327794fecde40547a8fe55b52e86cc3",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0113.json": "3de4140404fa9cfc3e99fbe472ea53c62dd36b7929324aabba7bbfef68973517",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0114.json": "62d6e5bd527f58042d873b283149c2622b4937d8541db1d133bb5564f2a8b37c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0115.json": "67fcff3ae34f0f928fa017312810ea54ceb8e052b855f36f0387b1f01abf32e7",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0116.json": "f9df9761fad3de6be06cea03fd24692a59e5fb5b3ab4d984d8a5c74558755bcc",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0117.json": "741229bcecf3d3d4c78b4bb3eb3f2e0a4db431d2c9e09e566fe0e74a88e4d38c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0118.json": "f43a2a59969b117d8df30fedb77daf415575e993f87c8f5a3ba6900c43de0f4c",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0119.json": "1e4075b4f04cc5fa336875575108e2795236bfa6e18f1879e5e39415a73e3a29",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0120.json": "09e2ee0e7665f82458cb733237ee8d375e241d47dcace9a554912a8941f45d49",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0121.json": "1a7487a93fd66aa868353f09959ebdfeb0c45186920f1bd4920c649f138692ef",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0122.json": "bf247e20713c29282316e84fa19413f0627b199eb6534d0bb662a17d51cbde91",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0123.json": "f79cb237cf925d792d536931e8866702179a57f06686e0f21fe7f7dc4a7e7a40",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0124.json": "adf2438118cb00621e58f4a2db8e30e50d7c88bf3bb4572da72e4c8168226900",
+    "dados\\brutos\\openalex\\busca-restrita-20261115\\pagina_0125.json": "a70ddb20ecc18bbee5fec2e7b14085e61307bbb8a4b1990382fb888ea7ad0cee"
+  },
+  "paginas_openalex": 125,
+  "obras_openalex_lidas": 7796,
+  "corpora": {
+    "nacional": {
+      "N": 7780,
+      "afiliacao": {
+        "conhecida": 3024,
+        "desconhecida": 3271,
+        "parcial": 1485
+      },
+      "goias": 196,
+      "autoria": 7753,
+      "instituicao": 4228,
+      "geografia": 4228,
+      "tematicas": 7777,
+      "tipos": [
+        {
+          "categoria": "artigo",
+          "obras": 5968,
+          "denominador": 7780,
+          "percentual": 76.70951156812339
+        },
+        {
+          "categoria": "capítulo",
+          "obras": 723,
+          "denominador": 7780,
+          "percentual": 9.29305912596401
+        },
+        {
+          "categoria": "trabalho em anais",
+          "obras": 474,
+          "denominador": 7780,
+          "percentual": 6.092544987146529
+        },
+        {
+          "categoria": "tese/dissertação sem grau discriminado",
+          "obras": 205,
+          "denominador": 7780,
+          "percentual": 2.634961439588689
+        },
+        {
+          "categoria": "dissertação",
+          "obras": 151,
+          "denominador": 7780,
+          "percentual": 1.9408740359897172
+        },
+        {
+          "categoria": "livro",
+          "obras": 142,
+          "denominador": 7780,
+          "percentual": 1.8251928020565553
+        },
+        {
+          "categoria": "tese",
+          "obras": 51,
+          "denominador": 7780,
+          "percentual": 0.6555269922879178
+        },
+        {
+          "categoria": "resumo em anais",
+          "obras": 39,
+          "denominador": 7780,
+          "percentual": 0.5012853470437018
+        },
+        {
+          "categoria": "preprint",
+          "obras": 11,
+          "denominador": 7780,
+          "percentual": 0.14138817480719795
+        },
+        {
+          "categoria": "editorial",
+          "obras": 7,
+          "denominador": 7780,
+          "percentual": 0.08997429305912596
+        },
+        {
+          "categoria": "outro acadêmico: gênero explícito no resumo",
+          "obras": 6,
+          "denominador": 7780,
+          "percentual": 0.07712082262210797
+        },
+        {
+          "categoria": "resenha",
+          "obras": 2,
+          "denominador": 7780,
+          "percentual": 0.02570694087403599
+        },
+        {
+          "categoria": "relatório",
+          "obras": 1,
+          "denominador": 7780,
+          "percentual": 0.012853470437017995
+        }
+      ],
+      "anos": [
+        {
+          "ano": "2007",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 2,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 2,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2008",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 0,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 0,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2009",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 1,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 1,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2010",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 9,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 9,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2011",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 36,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 1,
+          "limite_superior_por_ano": 37,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2012",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 176,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 1,
+          "limite_superior_por_ano": 177,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2013",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 226,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 226,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2014",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 400,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 400,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2015",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 749,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 749,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2016",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 575,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 575,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2017",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 853,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 853,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2018",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 540,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 540,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2019",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 753,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 753,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2020",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 464,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 464,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2021",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 389,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 389,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2022",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 396,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 1,
+          "limite_superior_por_ano": 397,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2023",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 306,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 306,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2024",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 455,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 455,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2025",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 677,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 1,
+          "limite_superior_por_ano": 678,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2026",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 771,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 771,
+          "denominador_corpus": 7780,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "divergente",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 2,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 2,
+          "denominador_corpus": 7780,
+          "nota": "Categoria residual separada; não atribuir ano silenciosamente"
+        }
+      ],
+      "coautoria": {
+        "Sim": 6198,
+        "Não": 1555,
+        "não informada": 27
+      }
+    },
+    "goiano": {
+      "N": 97,
+      "afiliacao": {
+        "parcial": 34,
+        "desconhecida": 12,
+        "conhecida": 51
+      },
+      "goias": 80,
+      "autoria": 97,
+      "instituicao": 83,
+      "geografia": 83,
+      "tematicas": 93,
+      "tipos": [
+        {
+          "categoria": "artigo",
+          "obras": 74,
+          "denominador": 97,
+          "percentual": 76.28865979381443
+        },
+        {
+          "categoria": "trabalho em anais",
+          "obras": 12,
+          "denominador": 97,
+          "percentual": 12.371134020618557
+        },
+        {
+          "categoria": "capítulo",
+          "obras": 6,
+          "denominador": 97,
+          "percentual": 6.185567010309279
+        },
+        {
+          "categoria": "dissertação",
+          "obras": 4,
+          "denominador": 97,
+          "percentual": 4.123711340206185
+        },
+        {
+          "categoria": "tese",
+          "obras": 1,
+          "denominador": 97,
+          "percentual": 1.0309278350515463
+        }
+      ],
+      "anos": [
+        {
+          "ano": "2020",
+          "fundamento": "defesa alternativa",
+          "obras_com_ano_univoco": 0,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 0,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2021",
+          "fundamento": "defesa alternativa",
+          "obras_com_ano_univoco": 1,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 1,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2022",
+          "fundamento": "defesa alternativa",
+          "obras_com_ano_univoco": 1,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 1,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2023",
+          "fundamento": "defesa alternativa",
+          "obras_com_ano_univoco": 0,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 0,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2024",
+          "fundamento": "defesa alternativa",
+          "obras_com_ano_univoco": 2,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 2,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2025",
+          "fundamento": "defesa alternativa",
+          "obras_com_ano_univoco": 0,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 0,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2026",
+          "fundamento": "defesa alternativa",
+          "obras_com_ano_univoco": 0,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 0,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2020",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 11,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 11,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2021",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 6,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 6,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2022",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 15,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 15,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2023",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 14,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 14,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2024",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 11,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 11,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2025",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 18,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 18,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        },
+        {
+          "ano": "2026",
+          "fundamento": "publicação",
+          "obras_com_ano_univoco": 18,
+          "obras_divergentes_que_podem_pertencer_ao_ano": 0,
+          "limite_superior_por_ano": 18,
+          "denominador_corpus": 97,
+          "nota": "2026 incompleto: corte 08/11; limites superiores não são aditivos"
+        }
+      ],
+      "coautoria": {
+        "Sim": 82,
+        "Não": 15
+      }
+    }
+  },
+  "correspondencia": {
+    "Sim": 78,
+    "Não": 19
+  },
+  "alertas_de_autoria": 22,
+  "multiplos_openalex_por_componente": 4,
+  "autores_com_orcid_univoco": 5977,
+  "autores_com_conflito_orcid": 0,
+  "eixos": 291,
+  "redes": "não produzidas; identidades de autoria não auditadas globalmente e afiliações incompletas; grupos não coletados",
+  "uf_regiao": "não estimáveis integralmente; arquivos de authorships não contêm UF/região; somente sinal goiano validado e países"
+}

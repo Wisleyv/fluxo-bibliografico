@@ -1,0 +1,20 @@
+﻿verificacao,resultado,evidencia
+Obras únicas e pertinência aos corpora,OK,7779 + 97 − 78 = 7798; uma linha por obra na união observada
+Fórmulas recalculadas no Excel,OK,11 conferências de totais e denominadores calculadas e armazenadas
+Frações observadas,OK,"196/7779 e 67/3459, com recortes explícitos; participação total não estimável"
+Eixos preservados,OK,97 obras; três eixos; estados sem inferência de ausência
+Totais gráficos e séries,OK,7777 anos nacionais unívocos + 2 divergentes; Goiás 93 publicações + 4 defesas
+Tipos e gráficos,OK,Categorias documentais reconciliam ao corpus
+Gráficos nativos editáveis,OK,"Seis objetos de gráfico ligados às células, sem substituição por imagens"
+Integridade Planilha final PIBID.xlsx,OK,ZIP/XML íntegros
+Referências dos gráficos,OK,Todas as séries possuem referências a células; editabilidade estrutural verificada
+Tabelas e filtros Planilha final PIBID.xlsx,OK,"Nomes únicos, tabelas estruturadas e filtros mantidos pelo Excel"
+Sem erros Excel Planilha final PIBID.xlsx,OK,[]
+Integridade Matriz de cobertura e sobreposicao.xlsx,OK,ZIP/XML íntegros
+Tabelas e filtros Matriz de cobertura e sobreposicao.xlsx,OK,"Nomes únicos, tabelas estruturadas e filtros mantidos pelo Excel"
+Sem erros Excel Matriz de cobertura e sobreposicao.xlsx,OK,[]
+Pré-visualizações de todos os gráficos,OK,Seis exportações nativas pelo Excel; conferência visual registrada separadamente
+Combinações disjuntas de fontes,OK,Combinações exclusivas somam N; interseções par a par não são aditivas
+CAPES no resumo editável,OK,"Unidades e denominadores separados: registros, vínculos, coincidência nominal e obras elegíveis"
+CAPES nas matrizes,OK,Matriz histórica e medição incremental em abas distintas
+Proveniência integrada por fonte,OK,14423 registros; Portal CAPES 103 históricos + 675 novos; não somar componentes de fontes sobrepostas

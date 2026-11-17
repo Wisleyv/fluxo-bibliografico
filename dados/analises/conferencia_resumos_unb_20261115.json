@@ -1,0 +1,35 @@
+{
+  "data_consulta": "2026-11-15",
+  "registros": [
+    {
+      "codigo": "a3e7321c",
+      "par": "69c845eb",
+      "titulo": "O ensino de matriz energética na educação CTS : um estudo com práticas na formação de licenciandos da área de Ciências Naturais",
+      "autoria": "Ramos, Tiago Clarimundo",
+      "url": "https://repositorio.unb.br/handle/10482/23588",
+      "url_metadados": "https://repositorio.unb.br/handle/10482/23588?mode=full",
+      "data_emissao": "2017-05-26",
+      "data_incorporacao": "2017-05-26T21:46:09Z",
+      "data_defesa": "2017-03-07",
+      "ano_na_referencia": 2017,
+      "eixos": "PNN",
+      "evidencia": "O resumo da UnB descreve pesquisa participante com 16 licenciandos bolsistas de subprojeto de Química do PIBID em instituição federal no Sudoeste Goiano. Relata a reconstrução de concepções críticas sobre ciência, tecnologia e sociedade durante a formação.",
+      "limites": "O resumo identifica o contexto goiano e o PIBID, mas não relata trajetórias profissionais nem resultados específicos sobre relações entre IES, escolas e comunidades. A data de emissão e a referência indicam 2017."
+    },
+    {
+      "codigo": "e92d970d",
+      "par": "6fb14721",
+      "titulo": "Educação CTS e autonomia : dimensões para a formação de professores de ciências",
+      "autoria": "Lacerda, Nília Oliveira Santos",
+      "url": "https://repositorio.unb.br/handle/10482/38351",
+      "url_metadados": "https://repositorio.unb.br/handle/10482/38351?mode=full",
+      "data_emissao": "2020-06-29",
+      "data_incorporacao": "2020-06-29T13:14:48Z",
+      "data_defesa": "2019-10-24",
+      "ano_na_referencia": 2019,
+      "eixos": "VNN",
+      "evidencia": "O resumo da UnB relata análise documental de subprojetos do PIBID de Goiás e grupos focais para fundamentar uma proposição formativa em educação CTS e autonomia docente.",
+      "limites": "O resumo apresenta uma proposição teórica fundamentada na pesquisa, sem especificar resultados de aprendizagem dos participantes do PIBID, trajetórias profissionais ou relações IES–escola. A emissão de 2020 coincide com a incorporação ao repositório, enquanto a referência traz 2019; a data pertinente de publicação permanece incerta."
+    }
+  ]
+}

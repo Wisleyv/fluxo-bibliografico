@@ -1,0 +1,37 @@
+{
+  "entradas": 13748,
+  "unidades_antes": 13226,
+  "unidades_depois": 13222,
+  "fusoes_novas": 4,
+  "decisoes": {
+    "pendente": 5157,
+    "incluída": 7780,
+    "elegível com identidade pendente": 285
+  },
+  "motivos_inclusao": {
+    "resumo explicita pesquisa/ação/participantes e contexto PIBID": 2442,
+    "título explicita programa e objeto formativo/investigativo": 5200,
+    "leitura anterior reaproveitada": 138
+  },
+  "nucleo_138": {
+    "incluída": 138
+  },
+  "nucleo_origens_preservadas": 138,
+  "novas_inclusoes": 7642,
+  "exclusoes": 0,
+  "transferencias_defesa": 417,
+  "amostra": 42,
+  "pendencias_por_motivo": {
+    "pertinência temática insuficientemente sustentada": 4632,
+    "identidade pode alterar contagem": 696,
+    "natureza acadêmica/tipo sem suporte suficiente": 157,
+    "publicação no corte não comprovada": 786
+  },
+  "hashes_entradas": {
+    "dados\\analises\\marco2\\Registro de unidades.csv": "12c957f4f8f2743377600ff4c431f1f3ec180b053662ab1e14e9cca8662d6305",
+    "dados\\analises\\marco2\\Proveniencia.csv": "7bcb924701de51aefee2dad72bcedb2d279fb32ce1bcfa241a6d241a9d7275b0",
+    "dados\\analises\\marco2\\Corpus nacional provisorio.csv": "977aebe0a599e2bb9ccc2dc5fb56b2da6356f41154ce160f6371b7448255b407",
+    "dados\\analises\\marco2\\Conciliacao de identidades.csv": "8b9c5dd35e9c2f6b88c316ba2d2590c86559523413e534a9e79824e8370a5698",
+    "dados\\analises\\marco2\\Conferencia amostral.csv": "6e6ae92159adb0cf70a4b86ee3bea1a2adda43ed97c979bcca35658fce1e4806"
+  }
+}

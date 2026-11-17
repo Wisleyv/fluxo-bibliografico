@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+~$*
+
+# Dados grandes: distribuir como anexos de release
+/dados/brutos/catalogo-capes/catalogo-capes__catalogo-2024__20261108T150417015445-0300__CSV.csv
+/dados/normalizados/registros_normalizados__20261108T205625-0300__828bdff7.csv
+*.download

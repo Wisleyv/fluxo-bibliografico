@@ -1,0 +1,17 @@
+﻿nivel,categoria,obras_no_estrato,ambas,somente OpenAlex,somente Portal CAPES,outras fontes sem as duas,unidade,escopo_capes
+total,todos,7779,571,7206,0,2,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+periodo,2007–2019,4320,298,4021,0,1,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+periodo,2020–2026,3459,273,3185,0,1,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,artigo,5967,571,5395,0,1,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,capítulo,723,0,723,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,dissertação,151,0,150,0,1,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,editorial,7,0,7,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,livro,142,0,142,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,outro acadêmico: gênero explícito no resumo,6,0,6,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,preprint,11,0,11,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,relatório,1,0,1,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,resenha,2,0,2,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,resumo em anais,39,0,39,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,tese,51,0,51,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,tese/dissertação sem grau discriminado,205,0,205,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.
+tipo_documental,trabalho em anais,474,0,474,0,0,obras únicas elegíveis,União das rodadas CAPES históricas e de 16/11; tipos e anos do corpus canônico.

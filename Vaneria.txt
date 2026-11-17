@@ -1,0 +1,36 @@
+Produção científica sobre o Programa Institucional de Bolsa de Iniciação à Docência (PIBID) no Brasil (2007–2026): contribuições para a avaliação da política de formação de professores em Goiás
+Resumo
+O Programa Institucional de Bolsa de Iniciação à Docência (PIBID), criado em 2007, constitui uma importante política pública brasileira de formação inicial de professoras/es, ao favorecer a inserção de licenciandas/os nas escolas de Educação Básica e a aproximação entre Instituições de Ensino Superior (IES) e escolas. Ao longo de quase duas décadas de implementação, o Programa também se consolidou como objeto de investigação, resultando em expressiva produção científica acerca de seus processos, experiências e contribuições para a formação docente. Nesse contexto, esta pesquisa objetiva mapear a produção científica sobre o PIBID no Brasil, no período de 2007 a 2026, situando a participação de Goiás nesse cenário, e analisar, por meio de revisão de escopo, a produção científica goiana publicada entre 2020 e 2026, identificando tendências, contribuições e lacunas investigativas. Metodologicamente, a investigação será desenvolvida em dois movimentos complementares. No primeiro, de natureza bibliométrica, serão analisados indicadores relativos à evolução temporal das publicações, autoria, instituições de vinculação, distribuição geográfica, grupos de pesquisa, redes de colaboração e temáticas predominantes, buscando dimensionar a participação da produção goiana no cenário nacional. No segundo movimento, será realizada uma revisão de escopo da produção referente a Goiás, com vistas a mapear os objetos, contextos, abordagens e evidências apresentadas pelas pesquisas. A análise contemplará, especialmente, estudos relacionados às aprendizagens da docência, à constituição da identidade profissional, às trajetórias profissionais e às relações entre IES, escolas e comunidades, buscando também identificar como os saberes escolares e comunitários e a constituição de espaços híbridos de formação comparecem nessa produção. Espera-se construir um panorama da produção científica sobre o PIBID, situar a participação de Goiás no cenário nacional e evidenciar tendências e lacunas que possam subsidiar novas investigações e contribuir para o debate sobre a política de formação de professoras/es.
+
+Grande questão?
+ O que a produção científica sobre o PIBID revela acerca de suas contribuições para a formação de professores e que lugar Goiás ocupa nesse campo de conhecimento?
+Subquestões
+1. Como se configura a produção científica brasileira sobre o PIBID, no período de 2007 a 2026, considerando sua evolução temporal, distribuição institucional e geográfica, autorias, grupos de pesquisa e redes de colaboração?
+2. Qual é a participação da produção científica de Goiás no cenário nacional e quais IES, pesquisadoras/es e grupos de pesquisa se destacam nesse campo?
+3. Quais temáticas e tendências investigativas caracterizam a produção científica sobre o PIBID em Goiás, no período de 2020 a 2026?
+4. O que a produção científica goiana evidencia acerca das contribuições do PIBID para a aprendizagem da docência, a constituição da identidade e as trajetórias profissionais de professoras/es?
+5. Como as pesquisas produzidas em Goiás abordam as relações entre IES, escolas e comunidades, particularmente a articulação entre diferentes saberes e a constituição de espaços híbridos de formação?
+6. Quais lacunas são evidenciadas na produção científica goiana e que questões delas emergem para novas pesquisas e para o aprimoramento do PIBID como política de formação de professores?
+
+
+Sugiro começar pela revisã de escopo
+
+Para a revisão de escopo, o levantamento será delimitado à produção sobre o PIBID no contexto de Goiás, no período de 2020 a 2026. A estratégia principal combinará os descritores (“PIBID” OR “Programa Institucional de Bolsa de Iniciação à Docência”) AND (“Goiás” OR “goiano” OR “goiana”). A busca será complementada pela identificação das IES e dos contextos de realização das pesquisas em Goiás, de modo a recuperar estudos que não mencionem explicitamente o estado no título, resumo ou palavras-chave.
+A busca será complementada pela identificação das IES e dos contextos de realização das pesquisas em Goiás, de modo a recuperar estudos que não mencionem explicitamente o estado no título, resumo ou palavras-chave.
+Após a constituição do corpus goiano, a análise da revisão de escopo podera ser orientada por três eixos: (i) aprendizagem da docência; (ii) trajetórias profissionais; e (iii) relações entre IES, escolas e comunidades. Esses eixos funcionarão prioritariamente como categorias de análise, evitando restringir previamente a recuperação dos estudos e permitindo identificar inclusive sua pouca presença ou ausência na produção científica.
+Sugiro realizar as buscas no Portal de Periódicos CAPES, SciELO, Catálogo de Teses e Dissertações da CAPES e Biblioteca Digital Brasileira de Teses e Dissertações (BDTD), com busca complementar no Google Scholar.
+
+https://www.periodicos.capes.gov.br/?sck=google&src=google&utm
+Pensei em usarmos as bases:
+Portal de Periódicos CAPES, SciELO, Catálogo de Teses e Dissertações da CAPES e Biblioteca Digital Brasileira de Teses e Dissertações (BDTD), complementada pelo Google Scholar, para identificação de produções não recuperadas nas demais bases. 
+
+Estratégia de busca
+Descritores: PIBID OR “Programa Institucional de Bolsa de Iniciação à Docência”.
+Período: 2007–2026.
+Penso que estratégia de busca  poderá ser apenas pela combinação dos descritores PIBID e “Programa Institucional de Bolsa de Iniciação à Docência”, por meio do operador booleano OR, visando recuperar a produção científica brasileira sobre o programa no período de 2007 a 2026.
+PIBID OR “Programa Institucional de Bolsa de Iniciação à Docência”
+
+A utilização da sigla e da denominação completa amplia a recuperação dos estudos, uma vez que algumas publicações utilizam apenas a sigla, enquanto outras apresentam o nome completo do programa.
+Após a recuperação dos registros: remoção de duplicidades, leitura de títulos, resumos e palavras-chave, seguida da extração dos dados bibliométricos. 
+
+Após a seleção dos estudos, as publicações poderão ser classificadas segundo a instituição de vínculo dos autores, a unidade federativa, a região do país, o programa de pós-graduação, o tipo de produção e as temáticas investigadas. Essa etapa permitirá identificar e analisar a participação da produção científica desenvolvida por instituições do estado de Goiás no contexto da produção científica brasileira sobre o PIBID

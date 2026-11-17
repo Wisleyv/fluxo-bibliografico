@@ -1,0 +1,17 @@
+# Integração CAPES — registro metodológico incremental
+
+Esta nota complementa a metodologia vigente e deve ser incorporada ao documento que substituirá o relatório do Marco 5. Não declara encerrada a revisão bibliográfica da integração nem substitui a entrega anterior.
+
+A busca fornecida pelo pesquisador foi realizada em 16/11/2026 no Portal de Periódicos CAPES, com a expressão “PIBID” OR “Programa Institucional de Bolsa de Iniciação à Docência”, intervalo 2007–2026, tipos Artigo/Editorial e filtro `national_production=1`. O arquivo reúne 675 registros de 23 páginas declaradas, sem paginação individual preservada. O corte de publicação permanece em 08/11/2026; a data de recuperação posterior não significa publicação posterior nem reconstituição do índice no corte.
+
+O Portal CAPES constitui fonte de recuperação prevista em Vaneria.txt. Os resultados foram incorporados como proveniências de uma nova rodada, preservando as ocorrências anteriores e os metadados originais. O OpenAlex continua sendo fonte operacional complementar e de enriquecimento, sem substituir a atribuição da recuperação ao Portal. Não se interpreta a união das fontes como demonstração de completude nacional.
+
+Dos 675 IDs do RIS, 647 coincidem com IDs da consulta OpenAlex arquivada: sobreposição nominal de 95,85%. Essa medida conta registros de recuperação, não obras únicas ou identidades definitivamente conciliadas. Os demais 28 IDs também não demonstram 28 obras ausentes de todo o OpenAlex: existem correspondências por DOI, títulos e identificadores alternativos. O diagnóstico completo distingue 601 correspondências sem divergência nos campos comparados, 51 com divergências, 15 somente por título e oito sem correspondência estrita. Entre as divergências, 25 prefixos/subtítulos têm ID, DOI, ano e tokens de autoria concordantes.
+
+A execução vinculou os casos objetivos a componentes existentes, adicionando proveniência CAPES e mantendo sua elegibilidade anterior. As demais ocorrências permanecem em fila própria; não foram convertidas em novas obras. O manifesto registra os totais efetivamente vinculados. Não se copiou o campo concatenado de autoria para novos créditos de pessoas, nem se inferiu afiliação do filtro de produção nacional.
+
+O novo RIS melhora a aderência formal à fonte prevista, mas seus filtros documentais e de produção nacional não se tornam critérios gerais do corpus. Não contém resumos, afiliações ou datas completas em campos próprios. O conjunto não demonstra cobertura integral do Portal, e ausência na nova consulta não invalida os controles CAPES anteriores.
+
+Permanecem pendentes as conciliações com efeito na composição, especialmente DOIs alternativos de “Quero ser professora”, o ano de “Práticas de leitura”, reparos bibliográficos e candidatos sem identidade sustentada. Até esse fechamento, os 7.780 nacionais e os indicadores anteriores são linha de base preservada: 196/7.780 (2,52%) e 67/3.459 (1,94%) não foram recalculados como resultado final da integração. São frações observadas de afiliação identificada, não participação total, que permanece não estimável. Contexto goiano é dimensão separada.
+
+O fechamento exige resolver ou justificar a fila, atualizar o delta nacional/regional e seus indicadores, conferir a sobreposição por obras elegíveis, regenerar a entrega e testar sua reconstrução. A entrega vigente permanece intacta. Devem continuar explícitas as 871 pendências regionais, quatro inclusões por defesa, dúvida artigo/capítulo e afiliações incompletas, até que evidência específica altere esses estados.

@@ -1,0 +1,16 @@
+﻿fonte_a,fonte_b,obras_compartilhadas,denominador_corpus,unidade,estado
+BDTD,BDTD,201,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+BDTD,Catálogo CAPES,8,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+BDTD,OpenAlex,200,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+BDTD,Portal CAPES,0,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+BDTD,SciELO,0,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+Catálogo CAPES,Catálogo CAPES,9,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+Catálogo CAPES,OpenAlex,8,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+Catálogo CAPES,Portal CAPES,0,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+Catálogo CAPES,SciELO,0,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+OpenAlex,OpenAlex,7777,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+OpenAlex,Portal CAPES,571,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+OpenAlex,SciELO,64,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+Portal CAPES,Portal CAPES,571,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+Portal CAPES,SciELO,22,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas
+SciELO,SciELO,65,7779,obras únicas incluídas,consolidado no corpus observado; não completude; interseções não aditivas

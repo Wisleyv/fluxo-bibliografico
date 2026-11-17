@@ -1,0 +1,6 @@
+﻿medida,numerador,denominador,unidade,limite,percentual
+Coincidência nominal de ID,647,675,registros RIS,Não é identidade validada nem sobreposição por obras elegíveis,95.85185185185185
+Vínculos com componentes conciliados,665,675,registros RIS,Inclui obras pendentes e uma obra de controle sem OpenAlex no snapshot,98.51851851851852
+Mesma obra confirmada com snapshot OpenAlex,664,671,registros verificáveis,Exclui três revisões e um caso temporal não verificável; não mede completude,98.95678092399403
+Obras elegíveis recuperadas na nova rodada CAPES,509,7779,obras incluídas,Mesmas obras do corpus nacional; recuperação adicional não é inclusão nova,6.5432574881090115
+Obras elegíveis CAPES — todas as rodadas,571,7779,obras incluídas,"União por obra; inclui controles anteriores, sem duplicar rodadas",7.340275099627202

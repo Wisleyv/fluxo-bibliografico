@@ -1,0 +1,85 @@
+﻿nivel,fonte,base_temporal,periodo,ano,tipo_documental,total_origem,mesma obra confirmada,candidato em revisão,não recuperado no OpenAlex,não verificável,numerador_confirmado,denominador_verificavel,cobertura_verificavel_pct,confirmado_sobre_total_pct,revisao_excluida_denominador,nao_verificavel_excluido_denominador
+total,todos,todos,todos,todos,todos,1317,167,498,652,0,167,819,20.3907,12.6803,498,0
+fonte,BDTD,todos,todos,todos,todos,1060,0,474,586,0,0,586,0.0,0.0,474,0
+fonte,Catálogo CAPES,todos,todos,todos,todos,78,0,16,62,0,0,62,0.0,0.0,16,0
+fonte,Portal CAPES,todos,todos,todos,todos,103,101,2,0,0,101,101,100.0,98.0583,2,0
+fonte,SciELO,todos,todos,todos,todos,76,66,6,4,0,66,70,94.2857,86.8421,6,0
+fonte+base_temporal+periodo+tipo_documental,BDTD,defesa,2007–2019,todos,Dissertação,515,0,249,266,0,0,266,0.0,0.0,249,0
+fonte+base_temporal+periodo+tipo_documental,BDTD,defesa,2007–2019,todos,Tese,205,0,115,90,0,0,90,0.0,0.0,115,0
+fonte+base_temporal+periodo+tipo_documental,BDTD,defesa,2020–2026,todos,Dissertação,237,0,72,165,0,0,165,0.0,0.0,72,0
+fonte+base_temporal+periodo+tipo_documental,BDTD,defesa,2020–2026,todos,Tese,101,0,38,63,0,0,63,0.0,0.0,38,0
+fonte+base_temporal+periodo+tipo_documental,BDTD,publicação,2020–2026,todos,Dissertação,2,0,0,2,0,0,2,0.0,0.0,0,0
+fonte+base_temporal+periodo+tipo_documental,Catálogo CAPES,defesa,2020–2026,todos,Dissertação,63,0,11,52,0,0,52,0.0,0.0,11,0
+fonte+base_temporal+periodo+tipo_documental,Catálogo CAPES,defesa,2020–2026,todos,"Outro: PRODUTO, PROCESSO OU TÉCNICA",1,0,0,1,0,0,1,0.0,0.0,0,0
+fonte+base_temporal+periodo+tipo_documental,Catálogo CAPES,defesa,2020–2026,todos,Tese,14,0,5,9,0,0,9,0.0,0.0,5,0
+fonte+base_temporal+periodo+tipo_documental,Portal CAPES,publicação,2007–2019,todos,Artigo,66,65,1,0,0,65,65,100.0,98.4848,1,0
+fonte+base_temporal+periodo+tipo_documental,Portal CAPES,publicação,2007–2019,todos,Outro: Editorial,1,0,1,0,0,0,0,,0.0,1,0
+fonte+base_temporal+periodo+tipo_documental,Portal CAPES,publicação,2020–2026,todos,Artigo,36,36,0,0,0,36,36,100.0,100.0,0,0
+fonte+base_temporal+periodo+tipo_documental,SciELO,publicação,2007–2019,todos,Artigo,43,33,6,4,0,33,37,89.1892,76.7442,6,0
+fonte+base_temporal+periodo+tipo_documental,SciELO,publicação,2020–2026,todos,Artigo,33,33,0,0,0,33,33,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2010,Dissertação,1,0,1,0,0,0,0,,0.0,1,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2011,Dissertação,1,0,0,1,0,0,1,0.0,0.0,0,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2012,Dissertação,14,0,6,8,0,0,8,0.0,0.0,6,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2012,Tese,1,0,0,1,0,0,1,0.0,0.0,0,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2013,Dissertação,29,0,12,17,0,0,17,0.0,0.0,12,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2013,Tese,6,0,3,3,0,0,3,0.0,0.0,3,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2014,Dissertação,52,0,25,27,0,0,27,0.0,0.0,25,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2014,Tese,11,0,9,2,0,0,2,0.0,0.0,9,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2015,Dissertação,85,0,50,35,0,0,35,0.0,0.0,50,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2015,Tese,24,0,18,6,0,0,6,0.0,0.0,18,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2016,Dissertação,84,0,37,47,0,0,47,0.0,0.0,37,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2016,Tese,42,0,24,18,0,0,18,0.0,0.0,24,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2017,Dissertação,92,0,47,45,0,0,45,0.0,0.0,47,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2017,Tese,52,0,30,22,0,0,22,0.0,0.0,30,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2018,Dissertação,72,0,35,37,0,0,37,0.0,0.0,35,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2018,Tese,28,0,10,18,0,0,18,0.0,0.0,10,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2019,Dissertação,85,0,36,49,0,0,49,0.0,0.0,36,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2019,Tese,41,0,21,20,0,0,20,0.0,0.0,21,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2020,Dissertação,42,0,16,26,0,0,26,0.0,0.0,16,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2020,Tese,14,0,5,9,0,0,9,0.0,0.0,5,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2021,Dissertação,41,0,8,33,0,0,33,0.0,0.0,8,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2021,Tese,15,0,5,10,0,0,10,0.0,0.0,5,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2022,Dissertação,45,0,6,39,0,0,39,0.0,0.0,6,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2022,Tese,15,0,3,12,0,0,12,0.0,0.0,3,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2023,Dissertação,32,0,12,20,0,0,20,0.0,0.0,12,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2023,Tese,25,0,16,9,0,0,9,0.0,0.0,16,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2024,Dissertação,39,0,17,22,0,0,22,0.0,0.0,17,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2024,Tese,18,0,6,12,0,0,12,0.0,0.0,6,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2025,Dissertação,27,0,11,16,0,0,16,0.0,0.0,11,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2025,Tese,10,0,3,7,0,0,7,0.0,0.0,3,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2026,Dissertação,11,0,2,9,0,0,9,0.0,0.0,2,0
+fonte+base_temporal+ano+tipo_documental,BDTD,defesa,todos,2026,Tese,4,0,0,4,0,0,4,0.0,0.0,0,0
+fonte+base_temporal+ano+tipo_documental,BDTD,publicação,todos,2024,Dissertação,2,0,0,2,0,0,2,0.0,0.0,0,0
+fonte+base_temporal+ano+tipo_documental,Catálogo CAPES,defesa,todos,2024,Dissertação,63,0,11,52,0,0,52,0.0,0.0,11,0
+fonte+base_temporal+ano+tipo_documental,Catálogo CAPES,defesa,todos,2024,"Outro: PRODUTO, PROCESSO OU TÉCNICA",1,0,0,1,0,0,1,0.0,0.0,0,0
+fonte+base_temporal+ano+tipo_documental,Catálogo CAPES,defesa,todos,2024,Tese,14,0,5,9,0,0,9,0.0,0.0,5,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2011,Artigo,1,1,0,0,0,1,1,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2012,Artigo,1,1,0,0,0,1,1,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2014,Artigo,5,5,0,0,0,5,5,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2015,Artigo,13,13,0,0,0,13,13,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2016,Artigo,16,15,1,0,0,15,15,100.0,93.75,1,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2017,Artigo,6,6,0,0,0,6,6,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2018,Artigo,17,17,0,0,0,17,17,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2018,Outro: Editorial,1,0,1,0,0,0,0,,0.0,1,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2019,Artigo,7,7,0,0,0,7,7,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2020,Artigo,5,5,0,0,0,5,5,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2021,Artigo,6,6,0,0,0,6,6,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2022,Artigo,12,12,0,0,0,12,12,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2023,Artigo,6,6,0,0,0,6,6,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2024,Artigo,6,6,0,0,0,6,6,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,Portal CAPES,publicação,todos,2026,Artigo,1,1,0,0,0,1,1,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2012,Artigo,1,0,1,0,0,0,0,,0.0,1,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2013,Artigo,3,0,3,0,0,0,0,,0.0,3,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2014,Artigo,3,1,1,1,0,1,2,50.0,33.3333,1,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2015,Artigo,4,4,0,0,0,4,4,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2016,Artigo,5,3,1,1,0,3,4,75.0,60.0,1,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2017,Artigo,6,5,0,1,0,5,6,83.3333,83.3333,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2018,Artigo,12,12,0,0,0,12,12,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2019,Artigo,9,8,0,1,0,8,9,88.8889,88.8889,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2020,Artigo,6,6,0,0,0,6,6,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2021,Artigo,7,7,0,0,0,7,7,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2022,Artigo,3,3,0,0,0,3,3,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2023,Artigo,3,3,0,0,0,3,3,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2024,Artigo,6,6,0,0,0,6,6,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2025,Artigo,5,5,0,0,0,5,5,100.0,100.0,0,0
+fonte+base_temporal+ano+tipo_documental,SciELO,publicação,todos,2026,Artigo,3,3,0,0,0,3,3,100.0,100.0,0,0

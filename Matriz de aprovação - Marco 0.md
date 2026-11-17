@@ -1,0 +1,28 @@
+# Matriz de aprovação — Marco 0
+
+**Atualização posterior:** proposta aceita pelo usuário para execução do Marco 1. Ver `Aceite do Marco 0.md`, que define o alcance do aceite e as lacunas mantidas para os corpora/indicadores. O texto abaixo preserva o estado anterior à aprovação.
+
+Data: 15/11/2026. Estado: pronta para apreciação. Referências compartilhadas: `Protocolo de busca bibliométrica - v1.2 minuta.md` e `Inventário de insumos - Marco 0.md`.
+
+“Aprovada” abaixo significa evidência explícita em documento interno; não é inferida da criação de um plano. Não foi localizado termo separado assinado pela pesquisadora. A autorização da rodada atual cobre inspeção local e preparação de documentos; não cobre a resolução dos pares.
+
+| Nº / decisão da seção 9 | Formulação proposta | Evidência interna | Estado | Consequência e momento necessário |
+|---|---|---|---|---|
+| 1. Fonte principal | Adotar OpenAlex como fonte operacional principal; manter controles e complementos. | Plano de realinhamento, §§2 e 9; plano de análise, §7, só autoriza busca complementar. A conversa autoriza documentar a proposta, sem aprovação formal inequívoca da mudança. | Proposta; aprovação formal pendente. | Condiciona apresentar a mudança como desenho aprovado. Não impede auditoria descritiva da sobreposição dos arquivos existentes; confirmar antes de executar Marco 1 sob o novo desenho. |
+| 2. Denominação | Panorama nacional baseado no OpenAlex, complementado e avaliado pelas quatro fontes brasileiras. | Plano de realinhamento, §2.2. | Proposta. | Fechar antes da publicação do protocolo definitivo e dos produtos; não bloqueia contagem de correspondências. |
+| 3. Tipos acadêmicos | Conservar todos os tipos acadêmicos e idiomas da v1.1; decidir mapeamento de rótulos OpenAlex ambíguos sem exclusão automática. | Protocolo v1.1, §§5–6; auditoria OpenAlex contém tipos adicionais. | Escopo geral aprovado na v1.1; mapeamento OpenAlex pendente. | Marco 1 pode estratificar pelos tipos originais. Exigido antes da elegibilidade/consolidação nacional. |
+| 4. Goiás | Contexto ou afiliação em Goiás, separados; afiliação não demonstra contexto. | Plano de análise, §7: “Decisões informadas em 15 de novembro”, primeiro item; protocolo v1.1, §4. | Aprovada para regra regional documentada; atribuição no indicador nacional pendente. | Pode orientar exame regional posterior. Não condiciona identidade do Marco 1; regra nacional de atribuição precisa fechar antes dos indicadores. |
+| 5. Defesa | Aceitar defesa 2020–2026 como alternativa regional para teses/dissertações; distinguir publicação e sinalizar evidência limitada de 2026. | Protocolo v1.1, §2 e histórico 1.1; relatório do critério por defesa. | Aprovada, no alcance explicitamente registrado. | Preservar 417 marcações existentes; não aplicar como publicação nacional. Não bloqueia Marco 1. |
+| 6. Coleta posterior | Aceitar na proposta nacional obras com publicação até 08/11 recuperadas em 15/11, relatando índice posterior; não reconstruir presença histórica em 08/11. | Plano de análise, §7 autoriza coleta complementar com corte e coleta posterior; auditoria OpenAlex preserva horários. | Coleta complementar aprovada; admissão final no novo corpus nacional proposta. | Marco 1 pode medir o snapshot de 15/11 com ressalva. Aprovar antes da consolidação nacional e comparações históricas. |
+| 7. Coautoria | Propor contagem inteira de obras únicas com ao menos uma afiliação confirmada; reportar múltiplos vínculos e desconhecidos, sem convertê-los em negativos. | Plano de automação, Etapa 8, exige definir regra; plano de realinhamento, §9. | Proposta; regra nacional de produção brasileira também pendente. | Não bloqueia conciliação. Necessária antes de proporções, produtividade institucional e redes. |
+| 8. Validação | Conferir inclusões, pares que alterem contagens e amostra de exclusões; prever revisão independente quando disponível, sem taxas de confiança não calibradas. | Plano de análise, §§4 e 7: amostra 60 autoavaliada e conferência por regras; relatório metodológico preliminar, §7. | Procedimentos anteriores documentados; alcance final proposto, pendente. | Não bloqueia auditoria local do Marco 1. Definir referência, amostra e responsável antes de alegar desempenho ou entregar classificação validada. |
+
+## Condições para iniciar o Marco 1
+
+1. Dar aceite operacional à base proposta e aos quatro controles por linha de origem, sem tratá-los como obras únicas ou controles nacionais representativos.
+2. Fixar para a medição a unidade par (`openalex_id`, `codigo_base`), as classes existentes e o denominador: registros verificáveis de cada controle, com resultados posteriormente agregados por obra apenas quando identidade e tratamento de duplicatas estiverem resolvidos. Não contar ausência de candidato como prova de ausência na base OpenAlex inteira: ela descreve a busca coletada.
+3. Confirmar o uso do snapshot local de 15/11 e o alcance da decisão 1 para a execução formal do realinhamento. Os documentos não autorizam afirmar completude nacional por sobreposição nos controles.
+
+Esses três itens são propostas operacionais prontas para aceite, não aprovações adicionais presumidas. Os oito itens não precisam estar todos fechados para uma auditoria descritiva dos arquivos, mas precisam estar resolvidos no momento indicado na tabela. Nenhum insumo técnico obrigatório para o Marco 1 está ausente na conferência local.
+
+O Marco 0 está preparado até o limite das aprovações documentadas, **pronto para aprovação**, não concluído como desenho integralmente aprovado. Para encerrar formalmente, registrar responsável, data e deliberação sobre os itens pendentes; preservar esta matriz como histórico.

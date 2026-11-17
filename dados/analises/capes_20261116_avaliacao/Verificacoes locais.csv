@@ -1,0 +1,7 @@
+﻿verificacao,resultado,evidencia
+Integridade RIS,OK,675 TY = 675 ER = 675 registros; sem alerta de parser
+Partição do diagnóstico,OK,601 + 51 + 15 + 8 = 675 registros
+IDs e duplicação exata,OK,675 IDs distintos; nenhuma repetição exata; títulos iguais permanecem candidatos
+Controle anterior,OK,103 registros Portal preservados e comparados; 26 com correspondência candidata
+Unidade de contagem,OK,651 componentes candidatos = 512 incluídos + 129 pendentes + 10 elegíveis com identidade pendente; não somar a 675
+Preservação,OK,10 hashes de insumos idênticos após o diagnóstico; nenhum corpus/entrega regravado

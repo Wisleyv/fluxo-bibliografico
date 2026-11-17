@@ -1,0 +1,17 @@
+{
+  "estado": "fase bibliográfica executada; delta de elegibilidade, indicadores e entrega ainda pendentes",
+  "revisados": 49,
+  "resolvidos": 39,
+  "residuais": 10,
+  "total_capes_vinculado": 665,
+  "proveniencias_vinculadas": 14413,
+  "fusoes_entre_inclusoes": 1,
+  "nacional_operacional_apos_fusao": 7779,
+  "inclusoes_novas_nesta_fase": 0,
+  "insumos_preservados": {
+    "dados\\analises\\integracao_capes_20261116\\Pendencias CAPES.csv": "a73962b7827428595e52d438c03284b8e333c41724ae96104755ce3953ce2600",
+    "dados\\analises\\integracao_capes_20261116\\Registros CAPES integrados.csv": "7db3ea95eeb02c9db61230ae938624af291956cb7777373ac888370ecac8af3b",
+    "dados\\analises\\integracao_capes_20261116\\Proveniencia vinculada.csv": "7618e4a19b409a747dceffcc96f372999a51181d9489411b7e131ed1badbad80",
+    "dados\\analises\\integracao_capes_20261116\\Registro de decisoes.csv": "c0b362626b3051bbb70580a2e639ee0090bfb036be20aa5c9e90e4708de5ca02"
+  }
+}

@@ -1,0 +1,22 @@
+﻿ano,fundamento,obras_com_ano_univoco,obras_divergentes_que_podem_pertencer_ao_ano,limite_superior_por_ano,denominador_corpus,nota
+2007,publicação,2,0,2,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2008,publicação,0,0,0,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2009,publicação,1,0,1,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2010,publicação,9,0,9,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2011,publicação,36,1,37,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2012,publicação,176,1,177,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2013,publicação,226,0,226,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2014,publicação,400,0,400,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2015,publicação,749,0,749,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2016,publicação,574,0,574,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2017,publicação,853,0,853,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2018,publicação,540,0,540,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2019,publicação,753,0,753,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2020,publicação,464,0,464,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2021,publicação,389,0,389,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2022,publicação,396,1,397,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2023,publicação,306,0,306,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2024,publicação,455,0,455,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2025,publicação,677,1,678,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+2026,publicação,771,0,771,7779,2026 incompleto: corte 08/11; limites superiores não são aditivos
+divergente,publicação,2,0,2,7779,Categoria residual separada; não atribuir ano silenciosamente

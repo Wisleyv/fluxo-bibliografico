@@ -1,0 +1,784 @@
+{
+  "fonte": "SciELO; metadados das páginas de artigos já existentes",
+  "registros": [
+    {
+      "codigo": "4264db79",
+      "doi_esperado": "10.1590/rbce.48.e20250074",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-32892026000100609&lang=pt",
+      "consultado_em": "2026-11-15T12:26:21-03:00",
+      "url_final": "https://www.scielo.br/j/rbce/a/CPR3RTdNHWfg3N93G59qTFb/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Souza, Gabriel Costa de",
+          "Martins, Alessandra Catarina",
+          "Araldi, Franciane Maria",
+          "Duek, Viviane Preichardt",
+          "Farias, Gelcemar Oliveira",
+          "Folle, Alexandra"
+        ],
+        "citation_author_affiliation": [
+          "Universidade do Estado de Santa Catarina",
+          "Universidade do Estado de Santa Catarina",
+          "Universidade do Estado de Santa Catarina",
+          "Universidade do Estado de Santa Catarina",
+          "Universidade do Estado de Santa Catarina",
+          "Universidade do Estado de Santa Catarina"
+        ],
+        "citation_doi": [
+          "10.1590/rbce.48.e20250074"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2026"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "cee52e9a",
+      "doi_esperado": "10.1590/s0104-40362026003405141",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-40362026000100605&lang=pt",
+      "consultado_em": "2026-11-15T12:26:22-03:00",
+      "url_final": "https://www.scielo.br/j/ensaio/a/yLdXzDcNXjCQ3vt5Srt4SSp/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Batista, Ruhama Ariella Sabião",
+          "Brandalise, Mary Ângela Teixeira"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual de Londrina",
+          "Universidade Estadual de Ponta Grossa"
+        ],
+        "citation_doi": [
+          "10.1590/S0104-40362026003405141"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2026"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "2ea240bd",
+      "doi_esperado": "10.25053/redufor.v10.e15317",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2448-35832025000100226&lang=pt",
+      "consultado_em": "2026-11-15T12:26:23-03:00",
+      "url_final": "https://www.scielo.br/j/edufor/a/SGjbfbmrLpQX3xShv45zDHb/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Deimling, Natalia Neves Macedo",
+          "Silva, Maria Eduarda da Cruz",
+          "Favarin, Geovanna Bezerra"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Tecnológica Federal do Paraná",
+          "Universidade Tecnológica Federal do Paraná",
+          "Universidade Tecnológica Federal do Paraná"
+        ],
+        "citation_doi": [
+          "10.25053/redufor.v10.e15317"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2025"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "c9228df7",
+      "doi_esperado": "10.1590/1678-460x202541170112",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-44502025000100307&lang=pt",
+      "consultado_em": "2026-11-15T12:26:24-03:00",
+      "url_final": "https://www.scielo.br/j/delta/a/zJjtFQLGzd3kVhhYPJhPM4c/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Barricelli, Ermelinda Maria"
+        ],
+        "citation_author_affiliation": [
+          "Universidade São Francisco"
+        ],
+        "citation_doi": [
+          "10.1590/1678-460X202541170112"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2025"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "910fa3c6",
+      "doi_esperado": "10.1590/1984-6398202549948",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1984-63982025000300408&lang=pt",
+      "consultado_em": "2026-11-15T12:26:25-03:00",
+      "url_final": "https://www.scielo.br/j/rbla/a/zDSRY4gCJkmjpYgnt7jzBpd/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Sabota, Barbra",
+          "Silveira, Vitória",
+          "Sousa, Laryssa Paulino de Queiroz"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual de Goiás (UEG)",
+          "Universidade Estadual de Goiás (UEG)",
+          "Universidade Estadual de Goiás (UEG)"
+        ],
+        "citation_doi": [
+          "10.1590/1984-6398202549948"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2025"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "dfca8253",
+      "doi_esperado": "10.1590/0102-469840212",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-46982025000100206&lang=pt",
+      "consultado_em": "2026-11-15T12:26:26-03:00",
+      "url_final": "https://www.scielo.br/j/edur/a/kSyBzDN3CtwgyyNhhQqv8Rk/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "VANZUITA, ALEXANDRE",
+          "GUÉRIOS, JULIANA"
+        ],
+        "citation_author_affiliation": [
+          "Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
+          "Prefeitura Municipal de Itajaí"
+        ],
+        "citation_doi": [
+          "10.1590/0102-469840212"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2025"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "e2fdf173",
+      "doi_esperado": "10.1590/1984-0411.97134",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-40602025000102604&lang=pt",
+      "consultado_em": "2026-11-15T12:26:28-03:00",
+      "url_final": "https://www.scielo.br/j/er/a/MpzBt9jtCGTgwMtW6qBXPGC/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Lima, Adriane",
+          "Costa, Maria da Conceição Santos"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal do Pará (UFPA)",
+          "Universidade Federal do Pará (UFPA)"
+        ],
+        "citation_doi": [
+          "10.1590/1984-0411.97134"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2025"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "da1e0963",
+      "doi_esperado": "10.1590/s0104-40362024003204385",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-40362024000200301&lang=pt",
+      "consultado_em": "2026-11-15T12:26:31-03:00",
+      "url_final": "https://www.scielo.br/j/ensaio/a/WQbWT6NHsfq4FmsFkKkHr5C/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Oliveri, Andressa Maris Rezende",
+          "Jardilino, José Rubens Lima"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal de Ouro Preto",
+          "Universidade Federal de Ouro Preto"
+        ],
+        "citation_doi": [
+          "10.1590/S0104-40362024003204385"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2024"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "1b1d2e21",
+      "doi_esperado": "10.1590/01031813v63120248670339",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-18132024000100182&lang=pt",
+      "consultado_em": "2026-11-15T12:26:33-03:00",
+      "url_final": "https://www.scielo.br/j/tla/a/B8BNC7FdC6K9wfJBbzczXGc/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Santorum, Karen",
+          "Vian Jr, Orlando"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal de Santa Maria",
+          "Universidade Federal de São Paulo"
+        ],
+        "citation_doi": [
+          "10.1590/01031813v63120248670339"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2024"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "89d30495",
+      "doi_esperado": "10.4025/jphyseduc.v35i1.3552",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2448-24552024000100232&lang=pt",
+      "consultado_em": "2026-11-15T12:26:34-03:00",
+      "url_final": "https://www.scielo.br/j/jpe/a/ZqH8TqgNndcPCTpfd4pGwjP/?lang=en",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Souza, Gabriel Costa de",
+          "Martins, Alessandra Catarina",
+          "Araldi, Franciane Maria",
+          "Duek, Viviane Preichardt",
+          "Farias, Gelcemar de Oliveira",
+          "Folle, Alexandra"
+        ],
+        "citation_author_affiliation": [
+          "Santa Catarina State University",
+          "Santa Catarina State University",
+          "Santa Catarina State University",
+          "Santa Catarina State University",
+          "Santa Catarina State University",
+          "Santa Catarina State University"
+        ],
+        "citation_doi": [
+          "10.4025/jphyseduc.v35i1.3552"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2024"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "b6f62d55",
+      "doi_esperado": "10.1590/s1678-4634202450268142por",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1517-97022024000100827&lang=pt",
+      "consultado_em": "2026-11-15T12:26:36-03:00",
+      "url_final": "https://www.scielo.br/j/ep/a/DtGbvsd9hq9NbqBd84LygMv/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Cock, Juliana Cristina Araujo do Nascimento",
+          "Ramos, Maria Elizabete Neves"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal do Espírito Santo",
+          "Pontifícia Universidade Católica do Rio de Janeiro"
+        ],
+        "citation_doi": [
+          "10.1590/S1678-4634202450268142por"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2024"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "01edb714",
+      "doi_esperado": "10.24109/2176-6681.rbep.105.5805",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2176-66812024000100202&lang=pt",
+      "consultado_em": "2026-11-15T12:26:37-03:00",
+      "url_final": "https://www.scielo.br/j/rbeped/a/XdZhbKKKxR5GjLSTtXvg5Df/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Luz, Angélica Ramos da",
+          "Bego, Amadeu Moura"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP)",
+          "Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP)"
+        ],
+        "citation_doi": [
+          "10.24109/2176-6681.rbep.105.5805"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2024"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "2511e505",
+      "doi_esperado": "10.1590/1980-4415v37n75a07",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-636X2023000100133&lang=pt",
+      "consultado_em": "2026-11-15T12:26:39-03:00",
+      "situacao": "Falha na consulta",
+      "detalhe": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "codigo": "0de297f0",
+      "doi_esperado": "10.1590/0102-469835858",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-46982023000100143&lang=pt",
+      "consultado_em": "2026-11-15T12:26:40-03:00",
+      "url_final": "https://www.scielo.br/j/edur/a/bKBScxy4367MgLpcDX4hcpc/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "ANTIQUEIRA, LILIANE SILVA DE",
+          "PEREIRA, ELAINE CORRÊA",
+          "GALIAZZI, MARIA DO CARMO"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal do Rio Grande",
+          "Universidade Federal do Rio Grande",
+          "Universidade Federal do Rio Grande"
+        ],
+        "citation_doi": [
+          "10.1590/0102-469835858"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2023"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "ae9b988f",
+      "doi_esperado": "10.24109/2176-6681.rbep.104.5597",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2176-66812023000100223&lang=pt",
+      "consultado_em": "2026-11-15T12:26:42-03:00",
+      "url_final": "https://www.scielo.br/j/rbeped/a/LrjTGXSZLd4SCTn7VFVJ5BH/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Bartochak, Ântony Vinícius",
+          "Sanfelice, Gustavo Roese"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Feevale",
+          "Universidade Feevale"
+        ],
+        "citation_doi": [
+          "10.24109/2176-6681.rbep.104.5597"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2023"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "64b40852",
+      "doi_esperado": "10.24109/2176-6681.rbep.103i265.5243",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2176-66812022000300717&lang=pt",
+      "consultado_em": "2026-11-15T12:26:47-03:00",
+      "url_final": "https://www.scielo.br/j/rbeped/a/tgCBPJNywJsBKz3yWgKsVMv/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Cavalcanti, Anna Maria de Moura",
+          "Capecchi, Maria Candida Varone de Morais",
+          "Gomes, Vivilí Maria Silva"
+        ],
+        "citation_author_affiliation": [
+          "Secretaria Municipal de Educação (SME/SP)",
+          "Universidade Federal do ABC (UFABC)",
+          "Universidade Federal do ABC (UFABC)"
+        ],
+        "citation_doi": [
+          "10.24109/2176-6681.rbep.103i265.5243"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2022"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "430490b2",
+      "doi_esperado": "10.1590/1516-731320220023",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-73132022000100221&lang=pt",
+      "consultado_em": "2026-11-15T12:26:47-03:00",
+      "url_final": "https://www.scielo.br/j/ciedu/a/74T7XpMjHnJS54zHsQTTyyK/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Souza, Juliana Brandão de",
+          "Dias, Viviane Borges"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual de Santa Cruz (UESC)",
+          "Universidade Estadual de Santa Cruz (UESC)"
+        ],
+        "citation_doi": [
+          "10.1590/1516-731320220023"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2022"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "937d9c49",
+      "doi_esperado": "10.24109/2176-6681.rbep.102i261.4286",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2176-66812021000200503&lang=pt",
+      "consultado_em": "2026-11-15T12:26:48-03:00",
+      "url_final": "https://www.scielo.br/j/rbeped/a/DGdk7cJ5thxkxChLQb4xBKs/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Gesser, Andressa Regiane"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal de Santa Catarina (UFSC)."
+        ],
+        "citation_doi": [
+          "10.24109/2176-6681.rbep.102i261.4286"
+        ],
+        "citation_article_type": [
+          "case-report"
+        ],
+        "citation_publication_date": [
+          "2021"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "ec62cd2a",
+      "doi_esperado": "10.1590/1980-4415v35n69a15",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-636X2021000100314&lang=pt",
+      "consultado_em": "2026-11-15T12:26:50-03:00",
+      "situacao": "Falha na consulta",
+      "detalhe": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "codigo": "5cdf8009",
+      "doi_esperado": "10.1590/s1678-4634202147225968",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1517-97022021000100710&lang=pt",
+      "consultado_em": "2026-11-15T12:26:51-03:00",
+      "url_final": "https://www.scielo.br/j/ep/a/MczTJGLBgQCG7h4qVb78MqC/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Farias, Isabel Maria Sabino de",
+          "Silva, Silvina Pimentel",
+          "Cardoso, Nilson de Souza"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual do Ceará",
+          "Universidade Estadual do Ceará",
+          "Universidade Estadual do Ceará"
+        ],
+        "citation_doi": [
+          "10.1590/S1678-4634202147225968"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2021"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "fad3d020",
+      "doi_esperado": "10.1590/1516-731320210046",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-73132021000100247&lang=pt",
+      "consultado_em": "2026-11-15T12:26:52-03:00",
+      "url_final": "https://www.scielo.br/j/ciedu/a/z9JFXbrSScRDjjgFGTJ3dQd/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Tonelli, Gabriel Agostini",
+          "Oliveira, André Luis de"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual de Maringá (UEM)",
+          "Universidade Estadual de Maringá (UEM)"
+        ],
+        "citation_doi": [
+          "10.1590/1516-731320210046"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2021"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "7a7081fb",
+      "doi_esperado": "10.1590/0102-469820576",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-46982021000100118&lang=pt",
+      "consultado_em": "2026-11-15T12:26:55-03:00",
+      "url_final": "https://www.scielo.br/j/edur/a/pctftd69H8R48prLKsJYnnc/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "PINHEIRO, MARIA GRACILENE DE CARVALHO",
+          "CARVALHO, DIEGO FOGAÇA",
+          "DIAS, FÁTIMA APARECIDA DA SILVA"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Pitágoras",
+          "Universidade Pitágoras",
+          "Universidade Pitágoras"
+        ],
+        "citation_doi": [
+          "10.1590/0102-469820576"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2021"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "09575fa8",
+      "doi_esperado": "10.1590/1980-6248-2018-0096",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-73072021000100511&lang=pt",
+      "consultado_em": "2026-11-15T12:26:58-03:00",
+      "situacao": "Falha na consulta",
+      "detalhe": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "codigo": "44aa41a6",
+      "doi_esperado": "10.1590/1984-6398202017355",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1984-63982020000300499&lang=pt",
+      "consultado_em": "2026-11-15T12:26:59-03:00",
+      "url_final": "https://www.scielo.br/j/rbla/a/zjRDYGNs8GBhJMZwx9nQgXt/?lang=en",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Nascimento, Ana Karina de Oliveira",
+          "Fonseca, Ana Lúcia Simões Borges"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Federal de Sergipe",
+          "Universidade Federal de Sergipe"
+        ],
+        "citation_doi": [
+          "10.1590/1984-6398202017355"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2020"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "35ef4483",
+      "doi_esperado": "10.1590/0102-4698222648",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-46982020000100252&lang=pt",
+      "consultado_em": "2026-11-15T12:27:01-03:00",
+      "url_final": "https://www.scielo.br/j/edur/a/WBRbgMmYDvfZXyc7f6jbtZS/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "DEIMLING, NATALIA NEVES MACEDO",
+          "REALI, ALINE MARIA DE MEDEIROS RODRIGUES"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Tecnológica Federal do Paraná",
+          "Universidade Federal de São Carlos"
+        ],
+        "citation_doi": [
+          "10.1590/0102-4698222648"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2020"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "220d5042",
+      "doi_esperado": "10.1590/1516-731320200008",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-73132020000100207&lang=pt",
+      "consultado_em": "2026-11-15T12:27:03-03:00",
+      "url_final": "https://www.scielo.br/j/ciedu/a/LMSrQ5xGngfxHGjy7jHwnfL/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "Faraum Junior, David Pereira",
+          "Cirino, Marcelo Maia"
+        ],
+        "citation_author_affiliation": [
+          "Universidade Estadual do Oeste do Paraná",
+          "Universidade Estadual de Londrina"
+        ],
+        "citation_doi": [
+          "10.1590/1516-731320200008"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2020"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "1cadfc4f",
+      "doi_esperado": "10.1590/21172020210125",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1983-21172020000100327&lang=pt",
+      "consultado_em": "2026-11-15T12:27:06-03:00",
+      "url_final": "https://www.scielo.br/j/epec/a/HrZ49nVBBjssBcR9pkjTvxr/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "RECEPUTI, CAIAN CREMASCO",
+          "PEREIRA, THAIARA MAGRO",
+          "VOGEL, MARCOS",
+          "REZENDE, DAISY BRITO"
+        ],
+        "citation_author_affiliation": [
+          "Universidade de São Paulo",
+          "Universidade Federal do Espírito Santo",
+          "Universidade Federal do Espírito Santo",
+          "Universidade de São Paulo"
+        ],
+        "citation_doi": [
+          "10.1590/21172020210125"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2020"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    },
+    {
+      "codigo": "99e84563",
+      "doi_esperado": "10.1590/0102-4698230963",
+      "url_consultada": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-46982020000100289&lang=pt",
+      "consultado_em": "2026-11-15T12:27:07-03:00",
+      "url_final": "https://www.scielo.br/j/edur/a/NszhrhyM6Qr6KfDDnXJLMzG/?lang=pt",
+      "http_status": 200,
+      "metadados": {
+        "citation_author": [
+          "RABELO, LEANDRO DE OLIVEIRA",
+          "DIAS, VALÉRIA SILVA",
+          "CARVALHO, FERNANDO LUIZ DE CAMPOS"
+        ],
+        "citation_author_affiliation": [
+          "Universidade de São Paulo",
+          "Universidade de São Paulo",
+          "Universidade Estadual Paulista Júlio de Mesquita Filho"
+        ],
+        "citation_doi": [
+          "10.1590/0102-4698230963"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2020"
+        ]
+      },
+      "situacao": "Conferido",
+      "detalhe": ""
+    }
+  ]
+}

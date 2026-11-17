@@ -1,0 +1,19 @@
+{
+  "arquivos_manifesto": 632,
+  "bytes_zip": 506815980,
+  "sha256_zip": "e076c25d9366ef7eef060ad4cc943781256b407d4537bd7c61368bddc85626ff",
+  "integridade": "OK; cada membro do manifesto reconferido por SHA-256",
+  "reconstrucao": "OK; oito comandos locais, tabelas e valores dos XLSX idênticos",
+  "sha256_pacote_base_testado": "3e5760d6e451946cae99fe33c8d313f7ddac9ab5f44ce97fa6cb76831ad1a457",
+  "alteracoes_em_relacao_ao_pacote_testado": [
+    "dados/entregas/marco5_capes_20261116/Teste de reconstrucao.json"
+  ],
+  "alcance_pacote_final": "Acrescentado somente o registro do teste de reconstrução; demais membros idênticos ao pacote testado. Inventário atualizado.",
+  "arquivos_anteriores_preservados_por_sha256": 14,
+  "links_locais_conferidos": 83,
+  "verificacoes_entrega": 19,
+  "testes": 54,
+  "graficos_conferidos_visualmente": 6,
+  "tabelas_csv_reconstruidas": 46,
+  "estado": "Etapa 6 concluída operacionalmente; limitações científicas no relatório e na síntese"
+}

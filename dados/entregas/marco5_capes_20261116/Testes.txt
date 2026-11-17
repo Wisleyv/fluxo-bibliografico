@@ -1,0 +1,27 @@
+C:\Python310\python.exe -X utf8 -m unittest discover -s tests -p test_*marco*.py
+...............................
+----------------------------------------------------------------------
+Ran 31 tests in 0.030s
+
+OK
+
+C:\Python310\python.exe -X utf8 -m unittest discover -s tests -p test_indicadores_capes_20261116.py
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.011s
+
+OK
+
+C:\Python310\python.exe -X utf8 -m unittest discover -s tests -p test_delta_capes_20261116.py
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK
+
+C:\Python310\python.exe -X utf8 -m unittest discover -s tests -p test_entrega_capes_20261116.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 1.075s
+
+OK

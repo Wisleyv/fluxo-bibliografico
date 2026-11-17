@@ -1,0 +1,23 @@
+{
+  "registros_openalex": 12431,
+  "linhas_base": 1317,
+  "pares_candidatos": 689,
+  "ids_openalex_com_candidato": 642,
+  "linhas_base_com_candidato": 665,
+  "pares_por_fonte_base": {
+    "SciELO": 73,
+    "BDTD": 479,
+    "Portal CAPES": 121,
+    "Catálogo CAPES": 16
+  },
+  "pares_por_sinal": {
+    "doi": 168,
+    "titulo": 681,
+    "openalex_id": 36
+  },
+  "pares_titulo_divergente_ou_ausente": 8,
+  "sinal_pibid_textual": 12390,
+  "sinal_goias_textual": 201,
+  "sinal_goias_instituicoes": 258,
+  "sinal_goias_textual_ou_instituicoes": 333
+}

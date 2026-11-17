@@ -1,0 +1,26 @@
+﻿verificacao,resultado,evidencia
+Preservação de fontes,OK,139 hashes idênticos; inclui as 125 páginas e documentos fundantes
+Unidades únicas por escopo,OK,7779 nacionais + 97 regionais; não somar corpora sobrepostos como universo único
+Temporal nacional,OK,"Série + residuais, com publicação e defesa em estratos próprios, reconciliam ao corpus"
+Tipos nacional,OK,Categorias documentais harmonizadas mutuamente exclusivas
+Cobertura afiliação nacional,OK,Conhecida + parcial + desconhecida = denominador
+Pesos autoria nacional,OK,Crédito fracionário soma 1 por obra com campo; obras sem campo não recebem crédito fictício
+Pesos instituição nacional,OK,Crédito fracionário soma 1 por obra com campo; obras sem campo não recebem crédito fictício
+Pesos país nacional,OK,Crédito fracionário soma 1 por obra com campo; obras sem campo não recebem crédito fictício
+Temporal goiano,OK,"Série + residuais, com publicação e defesa em estratos próprios, reconciliam ao corpus"
+Tipos goiano,OK,Categorias documentais harmonizadas mutuamente exclusivas
+Cobertura afiliação goiano,OK,Conhecida + parcial + desconhecida = denominador
+Pesos autoria goiano,OK,Crédito fracionário soma 1 por obra com campo; obras sem campo não recebem crédito fictício
+Pesos instituição goiano,OK,Crédito fracionário soma 1 por obra com campo; obras sem campo não recebem crédito fictício
+Pesos país goiano,OK,Crédito fracionário soma 1 por obra com campo; obras sem campo não recebem crédito fictício
+Eixos e corpus regional,OK,291 pares = 97 obras x 3 eixos; estados preservados
+Reconciliação estados dos eixos,OK,Cada contagem remete às linhas de evidência
+Correspondência nacional regional,OK,78 inclusões regionais presentes no corpus nacional; 19 fora dele não entram no numerador
+Numerador e denominador compatíveis,OK,Somente afiliações das obras do corpus nacional congelado; não usa 97/7779
+Divergências de ano explícitas,OK,Duas obras nacionais mantidas em categoria divergente; limites por ano não aditivos
+Período comum sem defesa,OK,"67/3459, por publicação e regras nacionais; não soma as quatro inclusões por defesa"
+Revisão qualitativa adicional,OK,Nove trechos adicionais exatamente reproduzíveis; mais uma extração histórica conferida; 291 estados anteriores preservados
+Rótulos institucionais não ranqueados como pessoas,OK,"22 ocorrências arquivadas em alertas, sem alteração do corpus"
+Seis respostas mapeadas,OK,Mapa contém as seis subquestões canônicas e referências de suporte
+Rótulos dos denominadores vigentes,OK,"Estado dos indicadores usa os mesmos corpora, sem rótulos fixos de uma versão anterior"
+Caminhos das evidências,OK,Todos os arquivos de metadados referenciados existem

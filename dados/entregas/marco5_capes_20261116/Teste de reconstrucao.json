@@ -1,0 +1,53 @@
+{
+  "estado": "OK",
+  "arquivo_testado_sha256": "3e5760d6e451946cae99fe33c8d313f7ddac9ab5f44ce97fa6cb76831ad1a457",
+  "arquivos_extraidos_conferidos": 631,
+  "comandos_sem_rede": 8,
+  "tabelas_csv_marco4_identicas": 46,
+  "planilha_final": "Valores de todas as abas idênticos após geração e recálculo nativo",
+  "matriz": "Valores de todas as abas idênticos",
+  "graficos": "Seis gráficos nativos reconstruídos, exportados e verificados estruturalmente; revisão visual original registrada em Conferencia visual.csv",
+  "alcance": "Reconstrução desde corpora e decisões congelados; não nova coleta ou validação científica independente",
+  "logs": [
+    {
+      "comando": "python -X utf8 -m scripts.recalcular_cobertura_capes_20261116 --recalcular --atualizar",
+      "codigo_saida": 0,
+      "saida": "{\n  \"etapa\": \"5 — cobertura, indicadores e respostas\",\n  \"estado\": \"cálculos e síntese atualizados e conferidos; nova entrega final permanece etapa posterior\",\n  \"nacional\": 7779,\n  \"regional\": 97,\n  \"classes_capes\": {\n    \"mesma obra confirmada\": 664,\n    \"candidato em revisão\": 3,\n    \"não recuperado na consulta OpenAlex arquivada\": 7,\n    \"não verificável para o corte de publicação\": 1\n  },\n  \"denominador_verificavel\": 671,\n  \"ids_nominais\": 647,\n  \"vinculos_bibliograficos\": 665,\n  \"obras_elegiveis_novo_lote_capes\": 509,\n  \"obras_elegiveis_capes_uniao\": 571,\n  \"proveniencia_capes_em_obras_previamente_sem_portal\": 488,\n  \"verificacoes_integracao\": 13,\n  \"manifesto_insumos\": \"dados\\\\analises\\\\integracao_capes_20261116\\\\elegibilidade\\\\Manifesto de execucao.json\",\n  \"limite\": \"Não gera planilhas Excel nem substitui a entrega anterior.\"\n}\n"
+    },
+    {
+      "comando": "python -X utf8 -m scripts.entregar_marco5 preparar --manifesto dados\\analises\\integracao_capes_20261116\\elegibilidade\\Manifesto de execucao.json",
+      "codigo_saida": 0,
+      "saida": "{\"obras_uniao\": 7798, \"graficos\": 6, \"planilha\": \"dados\\\\entregas\\\\marco5_capes_20261116\\\\Planilha final PIBID.xlsx\"}\n"
+    },
+    {
+      "comando": "powershell -NoProfile -File scripts/conferir_excel_marco5.ps1 -Manifesto dados\\analises\\integracao_capes_20261116\\elegibilidade\\Manifesto de execucao.json",
+      "codigo_saida": 0,
+      "saida": ""
+    },
+    {
+      "comando": "python -X utf8 -m scripts.entregar_marco5 verificar --manifesto dados\\analises\\integracao_capes_20261116\\elegibilidade\\Manifesto de execucao.json",
+      "codigo_saida": 0,
+      "saida": "{\"verificacoes_marco5\": 19, \"resultado\": \"OK\"}\n"
+    },
+    {
+      "comando": "python -m unittest discover -s tests -p test_*marco*.py",
+      "codigo_saida": 0,
+      "saida": "...............................\n----------------------------------------------------------------------\nRan 31 tests in 0.029s\n\nOK\n"
+    },
+    {
+      "comando": "python -m unittest discover -s tests -p test_indicadores_capes_20261116.py",
+      "codigo_saida": 0,
+      "saida": "..........\n----------------------------------------------------------------------\nRan 10 tests in 0.012s\n\nOK\n"
+    },
+    {
+      "comando": "python -m unittest discover -s tests -p test_delta_capes_20261116.py",
+      "codigo_saida": 0,
+      "saida": ".......\n----------------------------------------------------------------------\nRan 7 tests in 0.001s\n\nOK\n"
+    },
+    {
+      "comando": "python -m unittest discover -s tests -p test_entrega_capes_20261116.py",
+      "codigo_saida": 0,
+      "saida": "......\n----------------------------------------------------------------------\nRan 6 tests in 1.062s\n\nOK\n"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "unidades_regionais": 1530,
+  "registros_origem": 2053,
+  "potenciais": 87,
+  "historicas": 19,
+  "periodo": {
+    "Não": 498,
+    "Sim": 548,
+    "Incerto": 484
+  },
+  "filas": {
+    "base técnica e fontes complementares": 1236,
+    "417 linhas por defesa": 382,
+    "varredura local por IES/contextos": 359,
+    "19 inclusões históricas": 19,
+    "100 OpenAlex sinalizados": 100
+  },
+  "hashes_entradas": {
+    "dados\\analises\\triagem_criterio_defesa_20261115.xlsx": "8e8b77d2dd80f600f3fa4c09dfbbbe58df706cad61f8e58acc69c900963d271a",
+    "dados\\analises\\marco2_fechamento\\Registro de decisoes.csv": "74935aa321c76169567c798c2edc291f4586548e83eaabf050ebce5619eaba08",
+    "dados\\analises\\marco2_fechamento\\Proveniencia.csv": "b4d3f083845a134eb18ac44d3ffd4bb0baf29fcc2b0e5b774649ce20dd573d24",
+    "dados\\analises\\marco2_fechamento\\Estado de todas as relacoes.csv": "427e957d3c4ff417b3e84a761282cdd71ddd525a5aea956e728494697fecd452",
+    "dados\\analises\\openalex_busca_restrita_20261115.csv": "74499051f48c0ea186354cd8891b54ce6862c125e166ff6091fecd851535cadd",
+    "dados\\analises\\openalex_prioridade_goias_20261115.csv": "47f9a3201afa8996333b1ce5967ecf81c2eb8ebbdf91536d69dd0d78d7d4244f"
+  }
+}

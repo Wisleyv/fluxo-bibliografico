@@ -1,0 +1,19 @@
+{
+  "etapa": "5 — integração CAPES",
+  "estado": "cobertura, indicadores e síntese concluídos; entrega final ainda não gerada",
+  "manifesto_entrada": "dados\\analises\\integracao_capes_20261116\\elegibilidade\\Manifesto de execucao.json",
+  "hash_manifesto_entrada": "6f99ffe824fb1d1e47e26bf8253f08bf52036c067acd517ebef2a8f49a215af1",
+  "diretorio_indicadores": "dados\\analises\\integracao_capes_20261116\\indicadores",
+  "proxima_etapa": "6 — regerar planilhas/gráficos, relatório metodológico e pacote em versão paralela",
+  "diretorio_entrega_proposto": "dados/entregas/marco5_capes_20261116",
+  "hashes_codigo_etapa": {
+    "scripts\\produzir_indicadores_marco4.py": "69fc19373760f8f3f1b8615b418517633bec0d3ecbef2d2d24a669d5df7ee62e",
+    "scripts\\documentar_conferencias_marco4.py": "eb68a204ca9e985fd9c3ec2a9ff0d6ba7aeada85174fc8051257c8ad08758da2",
+    "scripts\\verificar_marco4.py": "b00403eb1cb5133cc39d8c750b237006aa166d59339cf82c41ebe4f91f515dc6",
+    "scripts\\recalcular_cobertura_capes_20261116.py": "c1f0451abd8edd3f3ee63937c9aebd7b1d6bda3064d5a28771560a52c575de6a",
+    "scripts\\testar_indicadores_manifesto.py": "cb4df10d240115605429aa36e275f33a6e330da8ebfdf8fdbee5acb944877923",
+    "tests\\test_indicadores_capes_20261116.py": "cc430d6df5386d3dda1cf3b33b67bf7122efdab0b33dad66a103bf42f9c815db",
+    "tests\\test_delta_capes_20261116.py": "4fcfd03fae81171165a6695c36309167f252918457a35722df4de892e26d30d7",
+    "tests\\test_marco4.py": "5178603b59688512dd9022c51602696473d64914ee49001c05447367e89100bc"
+  }
+}

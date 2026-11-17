@@ -1,0 +1,6 @@
+﻿obra_a,obra_b,estado,evidencia_e_limite
+M2-4bae42ee3741323e,M2-4bae42ee3741323e,mesma obra; fundida,Tese UFU: mesmo DOI 10.14393/ufu.te.2022.620 e handle 123456789/37389; autoria abreviada no OpenAlex.
+M2-6aa6c4a3bc87f0ad,M2-7376226e0e434c6d,publicações relacionadas preservadas,"Relato em anais versus artigo de periódico, DOIs próprios e formatos distintos; não interpretar como duas intervenções independentes."
+M2-6fc274039407a243,M2-f5ac63d543e7078a,pendente; ambas fora da contagem,"Artigo e capítulo inglês com autores e resumo traduzido equivalentes; sem texto integral não se resolve obra versus versão. Contagem possível de uma ou duas obras, a decidir."
+M2-be0424193cdd6bde,M2-c88d019ee583b5e3,publicações relacionadas preservadas,"Artigo Poliges e resumo expandido têm DOIs, veículos e extensões distintos; mesma pesquisa não significa duas amostras independentes."
+M2-5afeeb153a97359d,M2-a9960de4732671f4,relatos sucessivos preservados,Projeto em andamento e relato posterior com resultados de portfólios; títulos/anos distintos. Não somar participantes como amostras independentes.

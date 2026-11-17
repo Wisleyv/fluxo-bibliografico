@@ -1,0 +1,126 @@
+{
+  "data_coleta_informada": "2026-11-16",
+  "origem": "Arquivo fornecido pelo usuário; concatenação declarada de 23 páginas",
+  "url_ultima_pagina_informada": "https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/acervo/buscador.html?q=%E2%80%9CPIBID%E2%80%9D+OR+%E2%80%9CPrograma+Institucional+de+Bolsa+de+Inicia%C3%A7%C3%A3o+%C3%A0+Doc%C3%AAncia%E2%80%9D&source=all&type%5B%5D=type%3D%3DArtigo&type%5B%5D=type%3D%3DEditorial&national_production%5B%5D=national_production%3D%3D1&num=30&page=23&publishyear=2007%3A2026",
+  "pagina_web": "Tentativa de acesso sem sucesso; conteúdo da página não verificado",
+  "filtros_extraidos_da_url": {
+    "consulta": "“PIBID” OR “Programa Institucional de Bolsa de Iniciação à Docência”",
+    "tipos": [
+      "Artigo",
+      "Editorial"
+    ],
+    "national_production": "1",
+    "publishyear": "2007:2026",
+    "num": "30",
+    "page": "23",
+    "source": "all"
+  },
+  "paginas_declaradas": 23,
+  "paginas_identificadas_no_ris": 0,
+  "registros": 675,
+  "ty_no_texto": 675,
+  "er_no_texto": 675,
+  "ids_distintos": 675,
+  "ids_repetidos": {},
+  "ids_formato_openalex": 675,
+  "doi_presentes": 633,
+  "dois_distintos": 633,
+  "dois_repetidos": {},
+  "titulos_distintos_normalizados": 658,
+  "grupos_titulo_repetido": {
+    "quero ser professora a construcao de sentidos da docencia por meio do pibid": 2,
+    "praticas de leitura no ensino medio o pibid de letras": 2,
+    "a divulgacao cientifica na formacao inicial e continuada de professores preparando pibidianos para popularizar a ciencia no contexto escolar": 2,
+    "editorial": 2,
+    "educacao patrimonial nos anos finais do ensino fundamental uma analise das metodologias aplicadas em sala": 2,
+    "jogo repensando a cidade integracao de temas socioambientais sob a perspectiva do enfoque cts": 2,
+    "praticas pedagogicas e as tecnologias digitais o entre lugar da formacao de professores alfabetizadores": 2,
+    "salas de cinema em londrina conhecimentos previos e o uso da folha de londrina para o estudo do cine ouro verde": 2,
+    "as contribuicoes e os limites do pibid como politica governamental para a formacao docente": 2,
+    "as concepcoes formativas e as prescricoes ao trabalho docente textualizadas no regulamento do pibid": 2,
+    "a influencia do pibid ingles na formacao do professor reflexivo": 2,
+    "o pibid me salvou a tecnologizacao de discursos e suas implicacoes nas praticas de formacao de professores as": 2,
+    "ensino de linguas estrangeiras quando as politicas publicas e a pratica nao se encontram": 2,
+    "politica publica de formacao docente na perspectiva dos professores universitarios": 2,
+    "a filosofia e sua possivel contribuicao educacional para pensar os desafios contemporaneos": 2,
+    "uniao metodologica uma possibilidade de leitura e escrita filosofica": 2,
+    "refletindo sobre o pibid em tempos de desprofissionalizacao docente": 2
+  },
+  "duplicatas_exatas_excedentes": 0,
+  "problemas_parser": {},
+  "cobertura_campos_nao_vazios": {
+    "TY": 675,
+    "ID": 675,
+    "TI": 675,
+    "AU": 675,
+    "PY": 675,
+    "JO": 675,
+    "VL": 630,
+    "IS": 579,
+    "DO": 633,
+    "SP": 487,
+    "EP": 486
+  },
+  "tipos": {
+    "article": 673,
+    "Editorial": 2
+  },
+  "categorias": {
+    "identificador concordante com acervo": 601,
+    "identificador concordante; revisão bibliográfica": 51,
+    "somente título; identidade não sustentada": 15,
+    "sem correspondência pelos índices utilizados": 8
+  },
+  "estado_nacional_por_registro": {
+    "incluída": 521,
+    "pendente": 136,
+    "elegível com identidade pendente": 10,
+    "sem candidato": 8
+  },
+  "snapshot_openalex_por_registro": {
+    "Sim": 647,
+    "Não": 28
+  },
+  "ja_tem_portal_por_registro": {
+    "Não": 649,
+    "Sim": 26
+  },
+  "obras_candidatas_distintas": 651,
+  "estados_obras_candidatas_distintas": {
+    "pendente": 129,
+    "incluída": 512,
+    "elegível com identidade pendente": 10
+  },
+  "obras_regionais_distintas": {
+    "Incluir": 12,
+    "Excluir": 39,
+    "Pendente": 11
+  },
+  "temporal": {
+    "publicação completa arquivada no corte": 646,
+    "ano 2007–2025 no período": 28,
+    "2026 sem data completa independente neste RIS": 1
+  },
+  "registros_2026": 35,
+  "triagem_titulo_proposta": {
+    "incluir": 359,
+    "pendente": 316
+  },
+  "variacoes_subtitulo_com_id_doi_autoria_ano": 25,
+  "candidatos_por_limpeza_sufixo_doi": 1,
+  "controles_portal": 103,
+  "controles_com_correspondencia": 26,
+  "hashes_insumos_preservados": {
+    "dados\\CAPES-concatenado.ris": "c038becb3017fb6c0ff4293aed6e4469bc1824dcd7f14b7034b0775537e98124",
+    "dados\\analises\\marco2_fechamento\\Registro de decisoes.csv": "74935aa321c76169567c798c2edc291f4586548e83eaabf050ebce5619eaba08",
+    "dados\\analises\\marco2_fechamento\\Proveniencia.csv": "b4d3f083845a134eb18ac44d3ffd4bb0baf29fcc2b0e5b774649ce20dd573d24",
+    "dados\\analises\\marco2_fechamento\\Corpus nacional.csv": "02137d8e71d9247bcb5e1287709a1c67241dae79a8b2d9e9c71fb3ffb7dd4ee4",
+    "dados\\analises\\marco3\\Decisoes regionais.csv": "68aebc5f18ab049338fa53550c3ac623e662cc13545668e1cb46224fb0b8db1b",
+    "dados\\analises\\marco3\\Proveniencia regional.csv": "fc6eb9894c980882c31414603130aa003bad8e007d4f945f2a191e5638df5581",
+    "dados\\analises\\marco3\\Corpus goiano.csv": "c532e982f3c2b812848fb56f82274fa3fb54f12416d0449f1f7326595e4e8dbc",
+    "dados\\analises\\openalex_busca_restrita_20261115.csv": "74499051f48c0ea186354cd8891b54ce6862c125e166ff6091fecd851535cadd",
+    "Vaneria.txt": "8a9a76981271d350a9a8a84821b892be59a0ec8da19889bd5ace441b31fab916",
+    "Protocolo de busca bibliométrica - v1.3 fechamento nacional.md": "4303beaed94db2ee62e7e76d5aaab60079248716ec5965deddf9df05a4f54bb2"
+  },
+  "status": "Avaliação preliminar, sem alteração dos corpora ou da entrega Marco 5"
+}

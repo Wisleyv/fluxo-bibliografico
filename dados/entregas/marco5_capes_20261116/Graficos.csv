@@ -1,0 +1,7 @@
+﻿aba,fonte,linhas,titulo_e_nota,estado
+G1 Nacional,Anos,2:21,"Brasil — publicação por anoParcial | N=7.779; 2 obras divergentes fora da curva2026 até 08/11; coletas: OpenAlex 15/11 e CAPES 16/11/2026","Nativo/editável, recalculado e exportado no Excel; ver Conferencia visual.csv"
+G2 Goiás,Anos,15:21,"Goiás — publicação e defesa separadasConsolidado nas 97 inclusões: 93 publicações + 4 defesas871 pendências fora; versões podem acrescentar 1–2 obras; 2026: corte 08/11","Nativo/editável, recalculado e exportado no Excel; ver Conferencia visual.csv"
+G3 Tipos GO,Tipos,15:19,"Goiás — tipos documentaisConsolidado nas 97 obras observadas871 pendências fora; quatro inclusões por defesa","Nativo/editável, recalculado e exportado no Excel; ver Conferencia visual.csv"
+G4 Afiliação,Afiliação,2:4,"Brasil — cobertura de afiliaçãoParcial | N=7.779; conhecida 3.024, parcial 1.485, desconhecida 3.270Conhecida refere-se às autorias observadas no arquivo","Nativo/editável, recalculado e exportado no Excel; ver Conferencia visual.csv"
+G5 Eixos,Indicadores eixos,2:4,"Goiás — estados da evidência nos três eixosConsolidado: 97 obras por eixo; 291 extraçõesNão informado e Não verificável não são ausência do fenômeno","Nativo/editável, recalculado e exportado no Excel; ver Conferencia visual.csv"
+G6 Tipos BR,Tipos,2:14,"Brasil — tipos documentaisConsolidado no corpus operacional de 7.779 obrasGrau não discriminado preservado; universo nacional parcial","Nativo/editável, recalculado e exportado no Excel; ver Conferencia visual.csv"

@@ -1,0 +1,16 @@
+﻿verificacao,resultado,evidencia
+Insumos anteriores preservados,OK,SHA-256 dos seis insumos igual à preparação
+Partição de decisões,OK,1530 componentes de entrada menos uma fusão = 1529; 97 + 561 + 871
+Proveniência íntegra,OK,"2053 registros distintos, todos relacionados a uma decisão"
+Caminhos de evidência locais,OK,139 caminhos distintos existentes
+Contagens por obra,OK,Soma dos registros por componente = 2053
+Elegibilidade das inclusões,OK,"Tema, natureza acadêmica, período e via geográfica presentes nas 97 inclusões"
+Inclusões históricas,OK,19 obras anteriores preservadas; 78 acrescentadas
+Extração restrita ao corpus,OK,97 obras x 3 eixos; nenhuma extração de pendentes/excluídas
+Estados históricos preservados,OK,57 estados copiados da base; sem reclassificação silenciosa
+Trechos novos reproduzíveis,OK,100 trechos Presente reproduzidos exatamente por índices de caracteres
+Estados sem inferência de ausência,OK,"291 linhas com fonte, localização, síntese e limite; Não informado e Não verificável separados"
+Exclusões temporais recalculadas,OK,297 por publicação antiga + 201 por publicação e defesa antigas; defesa antiga isolada não exclui
+Identidade adicional resolvida,OK,Uma tese UFU fundida por DOI e handle concordantes; todos os registros preservados
+Ambiguidade de versões fora dos indicadores,OK,"Artigo/capítulo equivalentes: duas unidades pendentes, efeito possível +1 ou +2 obras"
+Varredura de identidade no corpus,OK,"4656 pares internos: nenhum DOI concordante entre componentes nem similaridade de título >= 0,88; não detecta traduções por si só"

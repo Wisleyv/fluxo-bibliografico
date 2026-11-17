@@ -1,0 +1,42 @@
+{
+  "inputs_sha256": {
+    "dados\\analises\\triagem_criterio_defesa_20261115.xlsx": "8e8b77d2dd80f600f3fa4c09dfbbbe58df706cad61f8e58acc69c900963d271a",
+    "dados\\analises\\openalex_busca_restrita_20261115.csv": "74499051f48c0ea186354cd8891b54ce6862c125e166ff6091fecd851535cadd",
+    "dados\\analises\\marco1\\Pares auditados.csv": "6a1ff17542b28ca64ff6c3fb39893519f1a799d1d3bf5a8213e9e115f3554eda",
+    "dados\\analises\\marco1\\Exclusivos observados complementares.csv": "214596a3f5aac6c366bbfabc46e2deb6191ba291b64f564db85b8574ebd1abe1",
+    "dados\\analises\\openalex_busca_restrita_auditoria_20261115.json": "d2387ef7304df477827927033d1b01f73e5ec8df3f8a0cac83f026bfb2634f9e",
+    "dados\\normalizados\\registros_normalizados__20261108T205625-0300__828bdff7.csv": "5278c95457b3363312da3840b0d070c9e77b732ec24f3106e1dccdcea05c3cf4"
+  },
+  "registros": 13748,
+  "registros_openalex": 12431,
+  "linhas_base": 1317,
+  "unidades": 13226,
+  "reducoes_por_identidade": 522,
+  "pares": {
+    "histórico 40 / confirmada": 40,
+    "Marco 1 confirmado / confirmada": 167,
+    "Marco 1 inconclusivo / confirmada": 295,
+    "Marco 1 inconclusivo / pendente": 227,
+    "Título exato adicional / pendente": 587,
+    "Título exato adicional / confirmada": 43
+  },
+  "pares_residuais": 811,
+  "pre_corpus": 6429,
+  "nucleo_com_leitura": 138,
+  "complementares_nucleo": 4,
+  "unidades_so_complementares": 800,
+  "anos_divergentes": 4,
+  "temporal": {
+    "no período": 12437,
+    "pendente": 789
+  },
+  "amostra": 30,
+  "checagens": "IDs, hashes, 125 páginas, cursores, datas, proveniência, soma registros e cobertura reconciliados.",
+  "conferencia_integrada": {
+    "manter pendência": 5,
+    "pertinência sustentada no material amostral": 15,
+    "compatível com leitura reaproveitada": 10
+  },
+  "nucleo_antes_conferencia": 125,
+  "pre_corpus_antes_conferencia": 6425
+}

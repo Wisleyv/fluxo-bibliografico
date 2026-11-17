@@ -1,0 +1,19 @@
+{
+  "momento": "Antes de empacotar a nova entrega; originais não editados nesta etapa",
+  "sha256": {
+    "dados/entregas/marco5/Base tecnica PIBID.zip": "d93240b52931ee8d5cf2f77728cb36d9c192d0a509527e2775795a7af34d89de",
+    "dados/entregas/marco5/Conferencia Excel.json": "e8fa5e7ebc70b83784fdb3ad155926e306ad267d614a37554aa249f7f4e119be",
+    "dados/entregas/marco5/Conferencia visual.csv": "8e3d7d0b3a63c1988805a0c749d1e5f4f7070bf34a074c8ed8479c2418321a55",
+    "dados/entregas/marco5/Conferencias da entrega.csv": "1c0ad443621b79008b85e9a7eacebee5cc1c0e2a53ffe265da200a1e9b63ce80",
+    "dados/entregas/marco5/Graficos.csv": "c5e925ef8bfbb2d822a3421462f7edd66d9cd2b9ec7d7f2f56b19c2afa83fd2b",
+    "dados/entregas/marco5/Inventario.csv": "a3733920de5314575cef3a36308148468e64c1a34f6f5a8b192dcb2c557b4aa1",
+    "dados/entregas/marco5/Matriz de cobertura e sobreposicao.xlsx": "6907c6a6de79160f4be4d76eeb11b22260f004dfa8b892d3446aeb86954ab89a",
+    "dados/entregas/marco5/Pacote reproduzivel PIBID.zip": "d039281e63f59c66253931ee5e440a5f549e6bc55bc96a736f844afd2a570655",
+    "dados/entregas/marco5/Planilha final PIBID.xlsx": "0f8a3d11ef3b1f923899ca3cb0ffc9558a31124e4bce9f926e3b551fbd4e9a1f",
+    "dados/entregas/marco5/Relatorio metodologico.md": "275921e0469ca0019cd163c326548831804e8d2151f4434479ec1cdc7f5d5b0f",
+    "dados/entregas/marco5/Sintese das seis subquestoes.md": "0d434ce02baaa9d61a08323cfe7d68cd3f2ee8578ec72c22330fe86a23683753",
+    "dados/entregas/marco5/Teste de reconstrucao.json": "755f665c44455adad6554badd022b15187e600e78e205f027aa13519c33d64a7",
+    "dados/entregas/marco5/Testes.txt": "f91ee0eb1f98c67fb8e568f93ef73fa3907ccf4d5b6c2019a05e336180ad3bca",
+    "dados/entregas/marco5/Verificacao do pacote.json": "b710f7519965e7cce8a1aa7cddb0e82d14c84f3caa30706a4f53fe6f1a071978"
+  }
+}

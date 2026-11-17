@@ -1,0 +1,25 @@
+{
+  "titulo": "Fluxo bibliográfico: coleta, conciliação e análise de registros bibliográficos",
+  "autor_software": "Wisley Vilela",
+  "orcid": "https://orcid.org/0000-0002-0347-1778",
+  "diretrizes_pesquisa": "Vanéria Paula Sousa Martins",
+  "conta_destino": "Wisleyv",
+  "nome_proposto": "fluxo-bibliografico",
+  "idioma": "pt-BR",
+  "referencia_resultados": "integração CAPES 16/11/2026",
+  "licencas_componentes_proprios": [
+    "MIT",
+    "CC-BY-4.0"
+  ],
+  "estado": "versão preparada para publicação; confirmação no registro externo de envio",
+  "doi": null,
+  "versao_publica": "v0.1.0",
+  "url_publica": "https://github.com/Wisleyv/fluxo-bibliografico",
+  "instituicao": null,
+  "financiamento": "Nenhum financiamento específico",
+  "email_publico": null,
+  "nota": "Nulos significam não informado ou não atribuído, não inexistência.",
+  "afiliacao_na_publicacao": "sem afiliação institucional vinculada a este trabalho",
+  "contato_publico": "https://github.com/Wisleyv",
+  "armazenamento_preferido": "GitHub; arquivos grandes como anexos de release, demais arquivos no repositorio"
+}

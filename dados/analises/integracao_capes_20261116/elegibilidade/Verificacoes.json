@@ -1,0 +1,55 @@
+{
+  "estado": "Etapa 4 concluída até o limite da evidência local; indicadores e entrega ainda não atualizados",
+  "componentes_herdados_avaliados": 648,
+  "estados_herdados": {
+    "incluída": 509,
+    "pendente": 129,
+    "elegível com identidade pendente": 10
+  },
+  "promocoes_de_pendencias_a_inclusao": 0,
+  "novas_obras_confirmadas": 0,
+  "exclusoes_nacionais_novas": 0,
+  "componentes_provisorios_adicionados": 10,
+  "estados_provisorios": {
+    "elegível com identidade pendente": 1,
+    "pendente": 9
+  },
+  "componentes_nacionais": 13231,
+  "estados_nacionais": {
+    "pendente": 5166,
+    "incluída": 7779,
+    "elegível com identidade pendente": 286
+  },
+  "registros_proveniencia": 14423,
+  "capes_registros_vinculados_a_identidade_conciliada": 665,
+  "capes_registros_identidade_provisoria": 10,
+  "corpus_goiano": 97,
+  "extracoes_eixos": 291,
+  "pendencias_regionais_preservadas": 871,
+  "registros_adicionais_proveniencia_regional": 65,
+  "registros_proveniencia_regional": 2118,
+  "componentes_regionais_com_recuperacao_capes": 62,
+  "fila_regional_adicional": {
+    "Pendente; não incorporar à revisão": 6,
+    "Fora do período regional por publicação": 4
+  },
+  "divergencias_metadados_registradas": 198,
+  "insumos_preservados_sha256": {
+    "dados\\analises\\integracao_capes_20261116\\conciliacao\\Registro de decisoes.csv": "c964f28591c5234dfe7da108b47a88d4a00575fa77a82204c1bea6f032b937bb",
+    "dados\\analises\\integracao_capes_20261116\\conciliacao\\Corpus nacional.csv": "aabcf004aae9f2970995c1c184b090bf21f64fea13b44be95deede35fb4672d8",
+    "dados\\analises\\integracao_capes_20261116\\conciliacao\\Proveniencia vinculada.csv": "3180b082890668eb9920beddd8a0b93970cc0a0a9d3a1671d7b441fef39f1f7d",
+    "dados\\analises\\integracao_capes_20261116\\conciliacao\\Registros CAPES integrados.csv": "2e0d43917349cbf22763453fecea083ce544ae0d169f1e0720b3ff9bfb0c0ba7",
+    "dados\\analises\\integracao_capes_20261116\\conciliacao\\Pendencias CAPES.csv": "ec6f768a134f674d15f8acf9ed0e7c0345bbca0877e59774474fcb42d7dc0999",
+    "dados\\analises\\integracao_capes_20261116\\conciliacao\\Ponte de identidades.csv": "eea0be3c67280b74243a4eaf985fc69dfb77f92ece411d35f8d7736d568db1df",
+    "dados\\analises\\marco3\\Decisoes regionais.csv": "68aebc5f18ab049338fa53550c3ac623e662cc13545668e1cb46224fb0b8db1b",
+    "dados\\analises\\marco3\\Corpus goiano.csv": "c532e982f3c2b812848fb56f82274fa3fb54f12416d0449f1f7326595e4e8dbc",
+    "dados\\analises\\marco3\\Proveniencia regional.csv": "fc6eb9894c980882c31414603130aa003bad8e007d4f945f2a191e5638df5581",
+    "dados\\analises\\marco3\\Tres eixos.csv": "7bfc7352971410c6858098a86e2bc8b70709a427c6b58f9ed5946d38dc789c69",
+    "dados\\analises\\marco3\\Pendencias regionais.csv": "f642238d3d0035cf6a9e37551c2daea57e97a17130bd3573f4a4ab6206c4d6c4",
+    "dados\\analises\\openalex_busca_restrita_20261115.csv": "74499051f48c0ea186354cd8891b54ce6862c125e166ff6091fecd851535cadd",
+    "dados\\CAPES-concatenado.ris": "c038becb3017fb6c0ff4293aed6e4469bc1824dcd7f14b7034b0775537e98124",
+    "Vaneria.txt": "8a9a76981271d350a9a8a84821b892be59a0ec8da19889bd5ace441b31fab916",
+    "Protocolo de busca bibliométrica - v1.3 fechamento nacional.md": "4303beaed94db2ee62e7e76d5aaab60079248716ec5965deddf9df05a4f54bb2",
+    "Protocolo de busca bibliométrica - v1.4 integração CAPES.md": "d5c2f1b7fed2a313ad16e1056f3d01c03a3483ccacbd1a137355b740b13ed72c"
+  }
+}

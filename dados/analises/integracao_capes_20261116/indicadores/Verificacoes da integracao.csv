@@ -1,0 +1,14 @@
+﻿verificacao,resultado,evidencia
+Partição dos registros CAPES,OK,664 confirmados + 3 revisões + 7 não recuperados + 1 não verificável
+Estratos dos registros CAPES,OK,Cada dimensão particiona os mesmos 675 registros; subtotais de dimensões diferentes não são somados
+Denominador verificável,OK,675 − 3 revisões − 1 temporal não verificável = 671
+Vínculos de recuperação distintos de identidade OpenAlex,OK,647 IDs nominais; 665 vínculos; 664 identidades com snapshot + 1 controle sem OA
+Combinações exclusivas,OK,Todas as combinações disjuntas reconciliam ao corpus elegível
+Estratos por período e tipo,OK,Categorias mutuamente exclusivas dentro de cada estrato
+Totais de estratos elegíveis,OK,"Cada dimensão elegível reconcilia às 7779 obras, sem duplicar anos discordantes dentro do mesmo período"
+União de rodadas CAPES,OK,83 antigas + 509 novas recuperações por obra − 21 compartilhadas = 571
+Sobreposição elegível OpenAlex CAPES,OK,571 + 7206 + 0 + 2 = 7779; não é comparação dos índices completos
+Eixos preservados,OK,Nove frequências obra/eixo/estado idênticas à versão anterior
+Correspondência regional preservada,OK,78/97 presentes no nacional; não usar 97/N como participação
+Insumos dos indicadores preservados,OK,139 hashes conferidos
+Produtos anteriores preservados,OK,41 arquivos históricos do Marco 4 conferidos por inventário
